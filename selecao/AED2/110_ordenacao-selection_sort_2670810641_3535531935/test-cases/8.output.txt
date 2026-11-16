@@ -1,0 +1,6 @@
+banana <-> bacon
+morango <-> banana
+uva <-> laranja
+pera <-> morango
+uva <-> pera
+['amora', 'bacon', 'banana', 'laranja', 'morango', 'pera', 'uva']

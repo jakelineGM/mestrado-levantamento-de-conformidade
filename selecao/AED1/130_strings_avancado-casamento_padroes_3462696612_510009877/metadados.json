@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-130",
+  "disciplina": "AED1",
+  "ordem": 130,
+  "categoria": "strings_avancado",
+  "subtema": "casamento_padroes",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Tem na String?",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Vetor e String",
+  "exercicio_id": "3462696612",
+  "aluno_id": "510009877",
+  "hash_enunciado": "f21f851dd5",
+  "caminho_exercicio": "3695124409/4294284954/1572751599/3462696612",
+  "caminho_codigo": "3695124409/4294284954/1572751599/3462696612/510009877",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 5
+}

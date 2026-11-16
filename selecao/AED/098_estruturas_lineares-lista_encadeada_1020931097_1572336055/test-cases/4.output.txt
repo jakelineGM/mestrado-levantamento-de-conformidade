@@ -1,0 +1,5 @@
+20 us: prog2 finalizou
+31 us: prog4 finalizou
+32 us: prog1 finalizou
+42 us: prog3 finalizou
+42 us: shutdown

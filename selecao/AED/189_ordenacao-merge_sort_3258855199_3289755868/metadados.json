@@ -1,0 +1,19 @@
+{
+  "uid": "AED-189",
+  "disciplina": "AED",
+  "ordem": 189,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Ordenação de pontos com classe e merge sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "3258855199",
+  "aluno_id": "3289755868",
+  "hash_enunciado": "96662b9bd1",
+  "caminho_exercicio": "165123477/138519253/220769621/3258855199",
+  "caminho_codigo": "165123477/138519253/220769621/3258855199/3289755868",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

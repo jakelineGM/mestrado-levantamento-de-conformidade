@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-071",
+  "disciplina": "AED2",
+  "ordem": 71,
+  "categoria": "grafos",
+  "subtema": "menor_caminho",
+  "categoria_secundaria": "",
+  "titulo": "Buraco de minhoca (Floyd-Warshall)",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L11 - Grafos",
+  "exercicio_id": "4071192188",
+  "aluno_id": "1725437650",
+  "hash_enunciado": "780fd92683",
+  "caminho_exercicio": "2421630345/4142729763/3872798806/4071192188",
+  "caminho_codigo": "2421630345/4142729763/3872798806/4071192188/1725437650",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 10
+}

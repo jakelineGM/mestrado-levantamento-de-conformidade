@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-109",
+  "disciplina": "AED1",
+  "ordem": 109,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Conversão de decimal para binário com recursão",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Recursão",
+  "exercicio_id": "2603956195",
+  "aluno_id": "4013420909",
+  "hash_enunciado": "aa6df915d1",
+  "caminho_exercicio": "3695124409/1382013434/3318628836/2603956195",
+  "caminho_codigo": "3695124409/1382013434/3318628836/2603956195/4013420909",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 10
+}

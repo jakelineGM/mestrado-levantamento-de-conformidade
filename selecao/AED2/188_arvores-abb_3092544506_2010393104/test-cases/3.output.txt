@@ -1,0 +1,2 @@
+Arvore inicial: 42 
+Depois de remover 42: vazia!

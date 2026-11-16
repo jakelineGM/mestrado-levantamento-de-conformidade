@@ -1,0 +1,133 @@
+Caso 1
+1 segundo
+1 primeiro
+
+Caso 2
+1 abc
+1 def
+2 ghi
+
+Caso 3
+1 alfa
+2 bravo
+3 delta
+3 charlie
+5 echo
+5 foxtrot
+7 golf
+8 hotel
+
+Caso 4
+1 0.1
+2 0.2
+2 0.3
+4 0.4
+5 0.7
+5 0.8
+5 0.6
+5 0.5
+6 0.9
+
+Caso 5
+1 True
+2 True
+3 True
+4 False
+5 False
+
+Caso 6
+1 str
+2 0
+3 True
+4 (1, 2, 3)
+5 False
+
+Caso 7
+1 2
+1 3.14
+1 1.0
+2 5
+2 4
+
+Caso 8
+1 b
+3 a
+5 c
+6 d
+8 e
+
+Caso 9
+1 c
+2 b
+3 a
+4 d
+5 e
+6 g
+7 f
+
+Caso 10
+1 b
+2 a
+3 c
+4 f
+5 g
+6 e
+7 d
+
+Caso 11
+1 g
+2 b
+3 e
+3 a
+4 d
+6 c
+6 f
+7 h
+8 x
+
+Caso 12
+1 d
+2 a
+2 g
+3 b
+3 f
+4 c
+5 e
+5 z
+6 y
+7 x
+
+Caso 13
+1 A
+2 B
+3 C
+
+Caso 14
+1 Ag
+2 Au
+3 C
+3 Cu
+3 Cl
+3 Fe
+4 H
+4 K
+5 N
+6 O
+7 P
+8 Ra
+8 U
+
+Caso 15
+1 Abba
+1 A-Ha
+1 The_Beatles
+2 Bee_Gees
+2 The_Carpenters
+3 Duran_Duran
+3 Guns_N'_Roses
+4 Iron_Maiden
+4 Nirvana
+5 Queen
+6 Rolling_Stones
+7 Simple_Red
+8 U2

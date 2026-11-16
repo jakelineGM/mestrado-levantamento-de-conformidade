@@ -1,0 +1,4 @@
+[(3,'C'),(2,'B'),(1,'A')]
+[(2,'Au'),(3,'Cu'),(7,'P'),(3,'Fe'),(6,'O'),(8,'U'),(5,'N'),(3,'Cl'),(8,'Ra'),(4,'H'),(1,'Ag'),(3,'C'),(4,'K')]
+[(2,'The_Carpenters'),(7,'Simple_Red'),(1,'A-Ha'),(5,'Queen'),(4,'Nirvana'),(2,'Bee_Gees'),(8,'U2'),(1,'Abba'),(4,'Iron_Maiden'),(1,'The_Beatles'),(3,"Guns_N'_Roses"),(3,'Duran_Duran'),(6,'Rolling_Stones')]
+[]

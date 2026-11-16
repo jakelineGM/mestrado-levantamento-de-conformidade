@@ -1,0 +1,10 @@
+3
+Ana
+Rua A
+1.65
+Carlos
+Rua B
+1.80
+Beatriz
+Rua C
+1.55

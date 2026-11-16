@@ -1,0 +1,19 @@
+{
+  "uid": "AED-012",
+  "disciplina": "AED",
+  "ordem": 12,
+  "categoria": "ordenacao",
+  "subtema": "bubble_sort",
+  "categoria_secundaria": "",
+  "titulo": "Trocas do Bubble Sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L02 - Ordenação",
+  "exercicio_id": "1249768481",
+  "aluno_id": "3424947222",
+  "hash_enunciado": "f89c8385a0",
+  "caminho_exercicio": "165123477/138519253/1444029046/1249768481",
+  "caminho_codigo": "165123477/138519253/1444029046/1249768481/3424947222",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 10
+}

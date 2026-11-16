@@ -1,0 +1,1 @@
+[["Codibentinho", 10], ["Zeraldo", 0], ["Vetorea", 5], ["Avelino", 10], ["Radixsortson", 9]]

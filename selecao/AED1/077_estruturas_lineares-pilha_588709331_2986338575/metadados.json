@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-077",
+  "disciplina": "AED1",
+  "ordem": 77,
+  "categoria": "estruturas_lineares",
+  "subtema": "pilha",
+  "categoria_secundaria": "",
+  "titulo": "Pilhas com lista",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "588709331",
+  "aluno_id": "2986338575",
+  "hash_enunciado": "a8aaa6031f",
+  "caminho_exercicio": "3695124409/428269319/915622173/588709331",
+  "caminho_codigo": "3695124409/428269319/915622173/588709331/2986338575",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

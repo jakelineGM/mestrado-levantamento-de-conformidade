@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-197",
+  "disciplina": "AED2",
+  "ordem": 197,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "",
+  "titulo": "Antecessor e sucessor na árvore binária de busca",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L05 - Árvores binárias de busca (2)",
+  "exercicio_id": "3916781202",
+  "aluno_id": "2704972459",
+  "hash_enunciado": "1e41431bc1",
+  "caminho_exercicio": "2421630345/749206632/877980308/3916781202",
+  "caminho_codigo": "2421630345/749206632/877980308/3916781202/2704972459",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

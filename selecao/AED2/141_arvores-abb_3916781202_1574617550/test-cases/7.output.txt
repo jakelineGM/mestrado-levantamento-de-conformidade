@@ -1,0 +1,6 @@
+Chave 46 tem antecessor 45 e sucessor 50
+Chave 29 tem antecessor 28 e sucessor 37
+Chave 6 tem antecessor 3 e sucessor 7
+Chave 23 tem antecessor 22 e sucessor 25
+Chave 12 tem antecessor 11 e sucessor 17
+Chave 42 tem antecessor 41 e sucessor 45

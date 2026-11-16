@@ -1,0 +1,11 @@
+100 10
+prog1 3
+prog2 3
+prog3 5
+prog4 30
+prog5 90
+prog6 80
+prog7 20
+prog8 90
+prog9 20
+prog10 5 

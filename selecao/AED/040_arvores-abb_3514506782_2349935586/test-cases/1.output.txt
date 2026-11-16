@@ -1,0 +1,23 @@
+Chave 1 encontrada
+Chave 2 nao encontrada
+Encontrei 1 chaves
+
+Chave 1 encontrada
+Chave 2 encontrada
+Chave 3 nao encontrada
+Encontrei 2 chaves
+
+Chave 5 encontrada
+Chave 4 nao encontrada
+Chave 3 nao encontrada
+Chave 2 encontrada
+Chave 1 nao encontrada
+Encontrei 2 chaves
+
+Chave 6 encontrada
+Chave 5 nao encontrada
+Chave 4 nao encontrada
+Chave 3 encontrada
+Chave 2 nao encontrada
+Chave 1 encontrada
+Encontrei 3 chaves

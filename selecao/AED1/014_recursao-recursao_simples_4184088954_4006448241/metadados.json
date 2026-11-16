@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-014",
+  "disciplina": "AED1",
+  "ordem": 14,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Algoritmo de euclides recursivo (maximo divisor comum)",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Recursão",
+  "exercicio_id": "4184088954",
+  "aluno_id": "4006448241",
+  "hash_enunciado": "ee19357189",
+  "caminho_exercicio": "3695124409/1382013434/3318628836/4184088954",
+  "caminho_codigo": "3695124409/1382013434/3318628836/4184088954/4006448241",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 7
+}

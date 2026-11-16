@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-136",
+  "disciplina": "AED1",
+  "ordem": 136,
+  "categoria": "busca",
+  "subtema": "busca_sequencial",
+  "categoria_secundaria": "",
+  "titulo": "Função para busca sequencial",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "L06 - Vetores",
+  "exercicio_id": "2826166071",
+  "aluno_id": "1996198881",
+  "hash_enunciado": "ce97d90bbe",
+  "caminho_exercicio": "3695124409/2928723469/1177447002/2826166071",
+  "caminho_codigo": "3695124409/2928723469/1177447002/2826166071/1996198881",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 4
+}

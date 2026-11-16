@@ -1,0 +1,6 @@
+10 5
+prog1 2
+prog2 2
+prog3 2
+prog4 2
+prog5 2

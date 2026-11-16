@@ -1,0 +1,24 @@
+Caso 1
+1 ordene
+1 nao
+1 valores
+1 os
+1 caso
+1 em
+1 empate
+1 de
+
+Caso 2
+1 Snow
+2 Galuf
+3 Yuna
+3 Rosfield
+3 Terra
+3 Rinoa
+4 Noctis
+4 Barret
+5 Lightning
+6 Ramza
+7 Cloud
+8 Cid
+8 Tidus

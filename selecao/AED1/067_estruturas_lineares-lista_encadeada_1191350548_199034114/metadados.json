@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-067",
+  "disciplina": "AED1",
+  "ordem": 67,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Removendo Segundo Elemento de uma Lista Circular",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada 2.0",
+  "exercicio_id": "1191350548",
+  "aluno_id": "199034114",
+  "hash_enunciado": "7558639983",
+  "caminho_exercicio": "3695124409/4294284954/3784713390/1191350548",
+  "caminho_codigo": "3695124409/4294284954/3784713390/1191350548/199034114",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

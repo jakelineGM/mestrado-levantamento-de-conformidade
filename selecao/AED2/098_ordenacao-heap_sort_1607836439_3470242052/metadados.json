@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-098",
+  "disciplina": "AED2",
+  "ordem": 98,
+  "categoria": "ordenacao",
+  "subtema": "heap_sort",
+  "categoria_secundaria": "arvores",
+  "titulo": "Ordenação Heap Sort",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L06 - Ordenação (2)",
+  "exercicio_id": "1607836439",
+  "aluno_id": "3470242052",
+  "hash_enunciado": "3ef85c9e11",
+  "caminho_exercicio": "2421630345/749206632/2179204405/1607836439",
+  "caminho_codigo": "2421630345/749206632/2179204405/1607836439/3470242052",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

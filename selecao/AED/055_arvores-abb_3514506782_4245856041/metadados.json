@@ -1,0 +1,19 @@
+{
+  "uid": "AED-055",
+  "disciplina": "AED",
+  "ordem": 55,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "",
+  "titulo": "Pesquisa na árvore binária de busca",
+  "linguagem": "Python",
+  "turma": "2024.02",
+  "avaliacao": "L05 - Árvores binárias de busca",
+  "exercicio_id": "3514506782",
+  "aluno_id": "4245856041",
+  "hash_enunciado": "b348dfbeb4",
+  "caminho_exercicio": "165123477/3985864974/3497556209/3514506782",
+  "caminho_codigo": "165123477/3985864974/3497556209/3514506782/4245856041",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

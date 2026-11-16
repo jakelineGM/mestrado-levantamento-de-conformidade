@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-118",
+  "disciplina": "AED1",
+  "ordem": 118,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Ordenação de Vetor com Quick Sort",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada 2.0",
+  "exercicio_id": "2504497198",
+  "aluno_id": "199034114",
+  "hash_enunciado": "a8e2376671",
+  "caminho_exercicio": "3695124409/4294284954/3784713390/2504497198",
+  "caminho_codigo": "3695124409/4294284954/3784713390/2504497198/199034114",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

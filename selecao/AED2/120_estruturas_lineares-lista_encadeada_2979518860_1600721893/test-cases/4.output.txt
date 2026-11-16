@@ -1,0 +1,16 @@
+1: fim
+2: existe
+3: existe
+1: fim
+2: existe
+3: existe
+1: fim
+2: existe
+3: existe
+1000: inicio
+999: existe
+888: existe
+666: existe
+555: existe
+-1000: nao existe
+100000000: nao existe

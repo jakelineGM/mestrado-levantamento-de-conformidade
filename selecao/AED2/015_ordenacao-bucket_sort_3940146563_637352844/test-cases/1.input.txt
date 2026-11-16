@@ -1,0 +1,10 @@
+('Zidane', 1.2)
+('Vivi', 0)
+('Fang', 10)
+('Sephiroth', 9.71)
+('Gladiolus', 4)
+('Rosa', 7.2)
+('Steiner', 4.5)
+('Gaffgarion', 2.71)
+('Cloud', 4)
+[]

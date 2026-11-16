@@ -1,0 +1,19 @@
+{
+  "uid": "AED-116",
+  "disciplina": "AED",
+  "ordem": 116,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Inserção e remoção na lista ligada (Python)",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L04 - Listas ligadas",
+  "exercicio_id": "3916098418",
+  "aluno_id": "2930129366",
+  "hash_enunciado": "1a1adb5cf0",
+  "caminho_exercicio": "165123477/138519253/2584272746/3916098418",
+  "caminho_codigo": "165123477/138519253/2584272746/3916098418/2930129366",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

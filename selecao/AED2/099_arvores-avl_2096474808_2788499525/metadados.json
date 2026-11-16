@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-099",
+  "disciplina": "AED2",
+  "ordem": 99,
+  "categoria": "arvores",
+  "subtema": "avl",
+  "categoria_secundaria": "",
+  "titulo": "Árvore AVL 4: rotações duplas",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L08 - Árvores AVL",
+  "exercicio_id": "2096474808",
+  "aluno_id": "2788499525",
+  "hash_enunciado": "3dcbe9fedb",
+  "caminho_exercicio": "2421630345/749206632/2809783974/2096474808",
+  "caminho_codigo": "2421630345/749206632/2809783974/2096474808/2788499525",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

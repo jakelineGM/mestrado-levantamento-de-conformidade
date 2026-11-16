@@ -1,0 +1,74 @@
+Chave 10 nao encontrada
+Chave 20 encontrada
+Chave 30 nao encontrada
+Encontrei 1 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 15 nao encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Encontrei 2 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 15 nao encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Encontrei 2 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Encontrei 3 chaves

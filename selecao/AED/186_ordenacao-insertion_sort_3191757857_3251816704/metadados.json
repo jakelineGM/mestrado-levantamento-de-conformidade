@@ -1,0 +1,19 @@
+{
+  "uid": "AED-186",
+  "disciplina": "AED",
+  "ordem": 186,
+  "categoria": "ordenacao",
+  "subtema": "insertion_sort",
+  "categoria_secundaria": "",
+  "titulo": "Passos do Insertion Sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L02 - Ordenação",
+  "exercicio_id": "3191757857",
+  "aluno_id": "3251816704",
+  "hash_enunciado": "465f5b7b36",
+  "caminho_exercicio": "165123477/138519253/1444029046/3191757857",
+  "caminho_codigo": "165123477/138519253/1444029046/3191757857/3251816704",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

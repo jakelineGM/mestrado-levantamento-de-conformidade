@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-171",
+  "disciplina": "AED1",
+  "ordem": 171,
+  "categoria": "busca",
+  "subtema": "busca_binaria",
+  "categoria_secundaria": "",
+  "titulo": "Rastrear a Busca Binária",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Vetor e String",
+  "exercicio_id": "3007934944",
+  "aluno_id": "4087021890",
+  "hash_enunciado": "b05b48b894",
+  "caminho_exercicio": "3695124409/4294284954/1572751599/3007934944",
+  "caminho_codigo": "3695124409/4294284954/1572751599/3007934944/4087021890",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

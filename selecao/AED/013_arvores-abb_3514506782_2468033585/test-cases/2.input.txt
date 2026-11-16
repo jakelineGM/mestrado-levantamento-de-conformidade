@@ -1,0 +1,13 @@
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{'valor':60,'esq':{'valor':40,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}},'dir':{'valor':50,'esq':None,'dir':None}},'dir':{'valor':90,'esq':{'valor':80,'esq':{'valor':70,'esq':None,'dir':None},'dir':None},'dir':{'valor':100,'esq':None,'dir':None}}}
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 85, 90, 95, 100, 105]
+{}

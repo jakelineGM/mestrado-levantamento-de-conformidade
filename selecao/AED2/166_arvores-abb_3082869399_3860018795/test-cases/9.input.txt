@@ -1,0 +1,1 @@
+{'valor': 5, 'esq': {'valor': 3, 'esq': {'valor': 2, 'esq': None, 'dir': None}, 'dir': None}, 'dir': {'valor': 8, 'esq': None, 'dir': None}}

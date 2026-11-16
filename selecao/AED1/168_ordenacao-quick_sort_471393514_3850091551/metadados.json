@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-168",
+  "disciplina": "AED1",
+  "ordem": 168,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "Quick ID",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "471393514",
+  "aluno_id": "3850091551",
+  "hash_enunciado": "063659b014",
+  "caminho_exercicio": "3695124409/4294284954/1834041492/471393514",
+  "caminho_codigo": "3695124409/4294284954/1834041492/471393514/3850091551",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

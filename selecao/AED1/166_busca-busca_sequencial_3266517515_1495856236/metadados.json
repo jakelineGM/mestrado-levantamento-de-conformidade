@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-166",
+  "disciplina": "AED1",
+  "ordem": 166,
+  "categoria": "busca",
+  "subtema": "busca_sequencial",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Consultas ao dicionário",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L08 - Alocação dinâmica",
+  "exercicio_id": "3266517515",
+  "aluno_id": "1495856236",
+  "hash_enunciado": "92ab81b6fd",
+  "caminho_exercicio": "3695124409/1382013434/3723721944/3266517515",
+  "caminho_codigo": "3695124409/1382013434/3723721944/3266517515/1495856236",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 5
+}

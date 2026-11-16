@@ -1,0 +1,175 @@
+Caso 1
+esq: wv
+dir: nc
+
+Caso 2
+esq: yf
+dir: pr
+
+Caso 3
+esq: ly gb
+dir: og ok
+
+Caso 4
+esq: od ld bz
+dir: fl
+
+Caso 5
+esq: sl ym dn
+dir: of
+
+Caso 6
+esq: jp oo yq
+dir: oc
+
+Caso 7
+esq: ix ib ki yg um of
+dir: eg cw
+
+Caso 8
+esq: ch to jc yj vl nx
+dir: au ls
+
+Caso 9
+esq: ty pa md
+dir: xb vr rr kt dm
+
+Caso 10
+esq: ny zl
+dir: yt bq nx yx vc xn
+
+Caso 11
+esq: ev pv gn zs jq fl
+dir: gx kt
+
+Caso 12
+esq: vz yl va mc
+dir: xc ik bd jw
+
+Caso 13
+esq: oy rw wt ue dz du
+dir: ju cy
+
+Caso 14
+esq: tm yh oh ba sn nx
+dir: ku kq
+
+Caso 15
+esq: zc uk yx ux
+dir: um dv lj mx dw ke ey ah hk sw lo nz
+
+Caso 16
+esq: ri ce gr ls rg tv py fn az
+dir: rf cs bq ak jm fd jv
+
+Caso 17
+esq: ww zt jw de dl cx gb mj ac dl su xb sl
+dir: qy ye gx
+
+Caso 18
+esq: qr hr bp wa te pm gq jt nq
+dir: nf ae zv ou wv un gh
+
+Caso 19
+esq: jd hn ro uu og qp uv yc zi wb vj yd
+dir: qz ew dm ui
+
+Caso 20
+esq: wz dh aj nb gd uw lx fj zx vh up lr jt
+dir: qy se gl
+
+Caso 21
+esq: ff jq kd mb ti ld wj gl
+dir: bw ex oi uz vg nn gh to
+
+Caso 22
+esq: zi ky jd pd ul uu yv aw tj ir nf kt nz ng
+dir: kd ar
+
+Caso 23
+esq: th hw dc vs
+dir: ht yt jh oq bf ah gi sk fq xn rp qv
+
+Caso 24
+esq: jm oy oc nu ka od zj ja qu lk cb sr ex pm tr
+dir: il
+
+Caso 25
+esq: gv hp wm cj wi tu ek uc wb dv en fu js ga jk qf ga iy gx es pd
+dir: kx jb ws cl ks ga fq xo vi yb xy
+
+Caso 26
+esq: nb rp uo hr xv xi
+dir: jm gq ae jk mv ne ng tp hb qe up ns nt gb jp cf uu zr vc wr jz mv vo hi ot fr
+
+Caso 27
+esq: ej fw kd ad nq em uc vp yq sf cg rf cc wb yz sn dc ra id zq oa jw ws zd oy ql zz
+dir: cj ph xa zu qt
+
+Caso 28
+esq: hm fi gu lx xv ni kh yu tm ru jr vt ff mj up pt ba kr ph oc ta no jf jo nh kw
+dir: cx qj or jp yl pu
+
+Caso 29
+esq: wv ai jg kq um hq zd zf yj eb cb uz rq yr mj bd sl nc ti ah ev bz ct wt
+dir: sl yw mo gm pr sg zg ws
+
+Caso 30
+esq: ac tj dd ft tb bb qx xi hm ma do ij tg ao km rd te df ez uk oy zr zw ge ov
+dir: dr uq wf ba lr ue eg
+
+Caso 31
+esq: mr do ud wf lg ht nu za cp gz fc ft aj md se hw vi kn gy uy qy pl yy mc tt lo vm ku
+dir: wj qm fb dl
+
+Caso 32
+esq: qs ge ms yq vu cl az td vo wy ak da wd hx zy xf te cs tu
+dir: eo qb yw ah bx rw fy qi no ld ut po xy
+
+Caso 33
+esq: ad yd pd ro rm rt ww fk bu
+dir: pq na fz gz bf hj pk xu xh fl mr kz ry ew ib ci uq we dp mi xw eh nn
+
+Caso 34
+esq: fz wm az mt il kf ut kk or xm lv tk tb yu li om xp zn ik uh hd qs sz lk aq ro tt gh rz ms xl
+dir: jn
+
+Caso 35
+esq: xl vt li xd te om yr qn pv fc
+dir: hc vr rf re sb pk ng it gu yj ek sm cb ww zm vq pr vd wj vo za xl qd zh kw ln ts xa mi oa qg jo md mv zo ds jk fe sv gd mr wg hx gw ca ty zs fi fs qu bx yo mu oj
+
+Caso 36
+esq: mr ns lx ld nt nr cw ad nb rv ah ka bd rl jb sq dd vn bz bu we rn qz qd oi qu kn xb qe ld sr pw
+dir: gq zc lh xz oj ge to wx wp pm xh nx aq jl ce hh zr mt yb rl xw lv rm xv ul xb na kq ko my ex ta
+
+Caso 37
+esq: yy zp az ws zq be uq md jd oh gl ua gb nr ga ah kx nm cx sb td re ss xf
+dir: fl av nu hq dx gv zb kk no gr ar mh zn ny qr qk oo em ym kp vj nh lg ve dn qs io ab qp im rj iw kc vj wz rf yj yi ai bc
+
+Caso 38
+esq: et il rn qc ef uh gm dl hn rt mm we ew mi gi bm wg na ha io jd vs mp le uv dk vy oc pt jx te cz pz pl gp yt rg iv qv xb ar ye as is yx bv ft za pl kj zg rj qn az ek mv uq ka yv
+dir: tv bw al rw lo
+
+Caso 39
+esq: sg mr jv gf vu lw sw ui aj yc xv ux kv de we jw mh xt so zt ke qr vb lu zy kw yu sv lm ro cd ju cl tz yd px md lu mz oc rj lt ux fv iw ki ky ge ub ne
+dir: kx ri qw fe vf hh xv dq pp ew da st qo ss
+
+Caso 40
+esq: lc fz et tq ay ch fy su hv fg cd up nm li kf cg wb mp zm jj dh ij ly
+dir: fx ab df ga ud qd is mx kj ez vu ee bf tw nq jn qu do ut cx we sn ei gi fu mw sj bt rt yh hv yo dy zk cm dx xg hk rf cs ld
+
+Caso 41
+esq: dz ix uy zh zc ze sp cn
+dir: xr fv ry lg fp pk jx jp ej ln zj cj fn cq ap zj ki mj lx xz oc fl rm ri ap mw iu sl oy qr uh hl zh xg wd gh qb sz ss lm ga lc qq hl cs ue zw vv aq yq oy ej rv gx wl ks
+
+Caso 42
+esq: nj le lw yf zs fr jx us zt wi
+dir: rp xi vm kw ph wc yt km at ap yx ym ke st ia gy am gr gs yj fc hz qp dq hd py cf qa ju in yi fl mz go hw zp mz qh zd tq qd je yv sf lv qb oj dp fr yk cn sh hh vz
+
+Caso 43
+esq: yv sv fz jt yu iu
+dir: et iv hq za dp xo in jw sv oi tm tv oy nv lp zu en pm zf be er ss mm nj hp dd eh xc cj wx jk dr qb mn eo po do km oi pe cx zf jb zf oz xc ip xp sr ap xd ns iw ut jz yi fb bd
+
+Caso 44
+esq: ud ys yl as zn ju ud xs rn hb vc dv wj td kw gc mj nx fv yb zl vy ns pf pn it tb to su xu yz lt oj ym ef bv sy mr ee tk zx wu my yd eo sb uo ie kx nl
+dir: ni iz vm jn pl op zg zq lq jv mt wy zw ze

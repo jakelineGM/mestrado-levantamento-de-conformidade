@@ -1,0 +1,19 @@
+{
+  "uid": "AED-077",
+  "disciplina": "AED",
+  "ordem": 77,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Lista de processos (Python)",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L04 - Listas ligadas",
+  "exercicio_id": "1020931097",
+  "aluno_id": "2569141546",
+  "hash_enunciado": "8af18aa464",
+  "caminho_exercicio": "165123477/138519253/2584272746/1020931097",
+  "caminho_codigo": "165123477/138519253/2584272746/1020931097/2569141546",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

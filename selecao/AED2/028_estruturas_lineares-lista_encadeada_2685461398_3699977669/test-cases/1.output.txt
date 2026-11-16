@@ -1,0 +1,4 @@
+17 us: hello-world finalizou
+205 us: numeros-primos finalizou
+340 us: fibonacci finalizou
+340 us: shutdown

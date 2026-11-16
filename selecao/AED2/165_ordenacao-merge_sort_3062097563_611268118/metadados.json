@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-165",
+  "disciplina": "AED2",
+  "ordem": 165,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "",
+  "titulo": "Ordenação por mesclagem (chave/valor)",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L06 - Ordenação (2)",
+  "exercicio_id": "3062097563",
+  "aluno_id": "611268118",
+  "hash_enunciado": "81c1213e12",
+  "caminho_exercicio": "2421630345/749206632/2179204405/3062097563",
+  "caminho_codigo": "2421630345/749206632/2179204405/3062097563/611268118",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

@@ -1,0 +1,65 @@
+{
+  "data_utc": "2026-10-15T02:58:56.176052+00:00",
+  "seed": 42,
+  "n_por_disciplina": 200,
+  "categorias_em_ordem": [
+    "arvores",
+    "busca",
+    "complexidade",
+    "estruturas_lineares",
+    "grafos",
+    "hash",
+    "ordenacao",
+    "recursao",
+    "strings_avancado"
+  ],
+  "subtemas_permitidos": {
+    "arvores": [
+      "abb",
+      "avl",
+      "heap_estrutura"
+    ],
+    "busca": [
+      "busca_binaria",
+      "busca_sequencial"
+    ],
+    "complexidade": [
+      "analise_complexidade"
+    ],
+    "estruturas_lineares": [
+      "fila",
+      "lista_duplamente_encadeada",
+      "lista_encadeada",
+      "pilha"
+    ],
+    "grafos": [
+      "bfs",
+      "dfs",
+      "menor_caminho",
+      "representacao"
+    ],
+    "hash": [
+      "tabela_hash"
+    ],
+    "ordenacao": [
+      "bubble_sort",
+      "bucket_sort",
+      "counting_sort",
+      "heap_sort",
+      "insertion_sort",
+      "merge_sort",
+      "quick_sort",
+      "radix_sort",
+      "selection_sort"
+    ],
+    "recursao": [
+      "recursao_multipla",
+      "recursao_simples"
+    ],
+    "strings_avancado": [
+      "casamento_padroes"
+    ]
+  },
+  "arquivo_categorias": ".\\classificacao\\resumo_por_categoria.csv",
+  "arquivo_classificacao": "classificacao/classificacao.csv"
+}

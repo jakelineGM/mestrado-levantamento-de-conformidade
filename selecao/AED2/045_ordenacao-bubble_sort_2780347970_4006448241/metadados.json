@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-045",
+  "disciplina": "AED2",
+  "ordem": 45,
+  "categoria": "ordenacao",
+  "subtema": "bubble_sort",
+  "categoria_secundaria": "",
+  "titulo": "Ordenação parcial com bubble sort",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "03-Python (nível 2)",
+  "exercicio_id": "2780347970",
+  "aluno_id": "4006448241",
+  "hash_enunciado": "8cedcf60a9",
+  "caminho_exercicio": "2421630345/4142729763/1248733289/2780347970",
+  "caminho_codigo": "2421630345/4142729763/1248733289/2780347970/4006448241",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 7
+}

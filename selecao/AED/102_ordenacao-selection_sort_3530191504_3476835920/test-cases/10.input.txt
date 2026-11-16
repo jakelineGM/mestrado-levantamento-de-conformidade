@@ -1,0 +1,1 @@
+['amora', 'banana', 'morango', 'uva', 'pera', 'laranja', 'bacon']

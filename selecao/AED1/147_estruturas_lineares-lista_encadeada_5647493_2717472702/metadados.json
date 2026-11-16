@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-147",
+  "disciplina": "AED1",
+  "ordem": 147,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Inserção e remoção na lista com vetor",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L11 - Listas",
+  "exercicio_id": "5647493",
+  "aluno_id": "2717472702",
+  "hash_enunciado": "c543bc7d58",
+  "caminho_exercicio": "3695124409/1382013434/94682846/5647493",
+  "caminho_codigo": "3695124409/1382013434/94682846/5647493/2717472702",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 9
+}

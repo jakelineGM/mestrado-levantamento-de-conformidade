@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-027",
+  "disciplina": "AED1",
+  "ordem": 27,
+  "categoria": "estruturas_lineares",
+  "subtema": "fila",
+  "categoria_secundaria": "",
+  "titulo": "Fila Banco",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "417470615",
+  "aluno_id": "284599213",
+  "hash_enunciado": "614edc41fd",
+  "caminho_exercicio": "3695124409/428269319/915622173/417470615",
+  "caminho_codigo": "3695124409/428269319/915622173/417470615/284599213",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

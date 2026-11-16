@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-122",
+  "disciplina": "AED1",
+  "ordem": 122,
+  "categoria": "estruturas_lineares",
+  "subtema": "fila",
+  "categoria_secundaria": "",
+  "titulo": "Funções da Fila",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada 2.0",
+  "exercicio_id": "2720206976",
+  "aluno_id": "2156665280",
+  "hash_enunciado": "dad935fc22",
+  "caminho_exercicio": "3695124409/2351927306/434523756/2720206976",
+  "caminho_codigo": "3695124409/2351927306/434523756/2720206976/2156665280",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

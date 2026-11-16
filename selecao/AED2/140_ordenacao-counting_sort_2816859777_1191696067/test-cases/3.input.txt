@@ -1,0 +1,1 @@
+[["Vetorea", 7.4], ["Countina", 6.5], ["Codibentinho", 7.2], ["Hipminimus", 6.5], ["Aedenilson", 7], ["Colabeno", 7.2], ["Hipmaximus", 7.5], ["Avelino", 7.4], ["Radixsortson", 6.8], ["Hashinton", 6.5]]

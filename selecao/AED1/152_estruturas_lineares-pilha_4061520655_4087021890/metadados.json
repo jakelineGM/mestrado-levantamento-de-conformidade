@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-152",
+  "disciplina": "AED1",
+  "ordem": 152,
+  "categoria": "estruturas_lineares",
+  "subtema": "pilha",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Inserir elementos do vetor em uma Pilha",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada 2.0",
+  "exercicio_id": "4061520655",
+  "aluno_id": "4087021890",
+  "hash_enunciado": "cf5b1f3169",
+  "caminho_exercicio": "3695124409/4294284954/3784713390/4061520655",
+  "caminho_codigo": "3695124409/4294284954/3784713390/4061520655/4087021890",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

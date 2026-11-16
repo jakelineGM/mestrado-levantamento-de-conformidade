@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-008",
+  "disciplina": "AED1",
+  "ordem": 8,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "MergeSort",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "4215888172",
+  "aluno_id": "1961316579",
+  "hash_enunciado": "47d56a46bd",
+  "caminho_exercicio": "3695124409/4294284954/1834041492/4215888172",
+  "caminho_codigo": "3695124409/4294284954/1834041492/4215888172/1961316579",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

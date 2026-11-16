@@ -1,0 +1,50 @@
+Caso 1
+primeiro
+segundo
+
+Caso 2
+abc
+def
+ghi
+
+Caso 3
+alfa
+bravo
+charlie
+delta
+echo
+foxtrot
+golf
+hotel
+
+Caso 4
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+
+Caso 5
+True
+True
+True
+False
+False
+
+Caso 6
+str
+0
+True
+(1, 2, 3)
+False
+
+Caso 7
+1.0
+2
+3.14
+4
+5

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-162",
+  "disciplina": "AED1",
+  "ordem": 162,
+  "categoria": "estruturas_lineares",
+  "subtema": "fila",
+  "categoria_secundaria": "recursao",
+  "titulo": "Imprime Fila ao Contrario",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "173952576",
+  "aluno_id": "310255487",
+  "hash_enunciado": "a9328cda6d",
+  "caminho_exercicio": "3695124409/4294284954/1834041492/173952576",
+  "caminho_codigo": "3695124409/4294284954/1834041492/173952576/310255487",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

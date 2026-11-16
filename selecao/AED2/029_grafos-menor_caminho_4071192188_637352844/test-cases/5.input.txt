@@ -1,0 +1,6 @@
+Alderaan Coruscant Jakku Naboo Mandalore Tatooine .
+Alderaan Coruscant -0.5
+Alderaan Naboo 0.25
+Mandalore Coruscant 0.25
+Mandalore Naboo -0.5
+. . 0

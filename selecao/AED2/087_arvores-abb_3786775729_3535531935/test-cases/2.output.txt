@@ -1,0 +1,16 @@
+Chave 16 encontrada
+Chave 8 encontrada
+Chave 4 encontrada
+Chave 2 encontrada
+Chave 6 encontrada
+Chave 1 encontrada
+Chave 3 encontrada
+Chave 5 encontrada
+Chave 7 encontrada
+Chave 12 encontrada
+Chave 10 encontrada
+Chave 9 encontrada
+Chave 11 encontrada
+Chave 14 encontrada
+Chave 13 encontrada
+Chave 15 encontrada

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-150",
+  "disciplina": "AED1",
+  "ordem": 150,
+  "categoria": "strings_avancado",
+  "subtema": "casamento_padroes",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Substrings",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L09 - Matrizes",
+  "exercicio_id": "3962557106",
+  "aluno_id": "4013420909",
+  "hash_enunciado": "5fa6a1c68a",
+  "caminho_exercicio": "3695124409/1382013434/2775751861/3962557106",
+  "caminho_codigo": "3695124409/1382013434/2775751861/3962557106/4013420909",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 5
+}

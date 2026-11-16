@@ -1,0 +1,6 @@
+Chave 37 tem antecessor 36 e sucessor 40
+Chave 22 tem antecessor 21 e sucessor 29
+Chave 14 tem antecessor 13 e sucessor 19
+Chave 30 tem antecessor 29 e sucessor 32
+Chave 35 tem antecessor 34 e sucessor 36
+Chave 46 tem antecessor 40 e sucessor 48

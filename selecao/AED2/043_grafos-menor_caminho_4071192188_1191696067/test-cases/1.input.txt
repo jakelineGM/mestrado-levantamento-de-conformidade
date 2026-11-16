@@ -1,0 +1,9 @@
+Starboundia Ad-42 Dabu Nox-16 Lux-138 .
+Starboundia Ad-42 0.05
+Ad-42 Starboundia -0.15
+Ad-42 Lux-138 0
+Dabu Starboundia 0.15
+Nox-16 Ad-42 -0.2
+Nox-16 Dabu 0.17
+Lux-138 Nox-16 0.1
+. . 0

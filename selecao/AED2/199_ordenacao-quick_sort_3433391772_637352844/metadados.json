@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-199",
+  "disciplina": "AED2",
+  "ordem": 199,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "Quick Sort (chave/valor)",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L07 - Ordenação (2)",
+  "exercicio_id": "3433391772",
+  "aluno_id": "637352844",
+  "hash_enunciado": "b0ebfcfa01",
+  "caminho_exercicio": "2421630345/4142729763/1288254652/3433391772",
+  "caminho_codigo": "2421630345/4142729763/1288254652/3433391772/637352844",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

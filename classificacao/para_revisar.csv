@@ -1,0 +1,72 @@
+id;categoria;subtema;categoria_secundaria;confianca;justificativa;motivo_revisao
+736be097af;fundamentos;entrada_saida;;media;Ler vários inteiros de uma string e somá-los com laço ou split;confiança media
+5c7fa86f13;estruturas_lineares;lista_encadeada;;media;Título indica lista ligada com remoção de ocorrências e busca de três consecutivos iguais;confiança media
+23857090b6;outro;outro;;baixa;Enunciado sem sentido e sem informação para classificar;confiança baixa
+8ce1aa1b1a;outro;outro;;baixa;Enunciado vago sem descrição de tarefa de programação;confiança baixa
+f2ed11da80;fundamentos;entrada_saida;;media;Enunciado vago mas sugere apenas imprimir hello;confiança media
+73c8ef49bd;fundamentos;vetores_matrizes;;media;Comparar tamanhos de duas listas e concatená-las com condicional simples;confiança media
+17a102ea5d;fundamentos;vetores_matrizes;;media;Percorrer lista verificando ordem crescente ou decrescente sem implementar ordenação;confiança media
+a20e3243ef;fundamentos;vetores_matrizes;estruturas_lineares;media;Manipular lista Python com pop e append funcionando como fila;confiança media
+d41d8cd98f;fundamentos;entrada_saida;;baixa;Enunciado vazio e tema inferido apenas pelo título sugerindo cálculo aritmético simples;confiança baixa
+ffb0236f6b;fundamentos;lacos;funcoes;alta;Teste de primalidade com laço e retorno antecipado em função exigindo versão eficiente;categoria secundária fora da taxonomia
+8358e006ca;ordenacao;merge_sort;;media;Intercalar duas listas ordenadas que corresponde à etapa de merge do Merge Sort;confiança media
+e927197e11;outro;outro;fundamentos;media;Simulação com escolha gulosa da ordem dos monstros. Ordenação pode usar sort() pronto. Guloso fora da taxonomia;confiança media
+d3a3a335a3;grafos;bfs;fundamentos;media;Preenchimento por inundação em matriz a partir do rio. Exige BFS ou DFS sobre células vizinhas;confiança media
+6e506986d4;grafos;bfs;fundamentos;media;Preenchimento por inundação em matriz a partir do rio. Exige BFS ou DFS sobre células vizinhas;confiança media
+383e0d604d;estruturas_lineares;pilha;strings_avancado;media;Verificar balanceamento de delimitadores. Problema clássico resolvido com pilha embora não explicitada;confiança media
+04488cc9eb;ordenacao;counting_sort;;media;Pigeonhole Sort não consta na taxonomia e é ordenação por contagem de chaves inteiras;confiança media
+b49347f8a8;fundamentos;entrada_saida;;media;Ler número e imprimir resultado aritmético. Título diz dobro e enunciado diz quadrado com texto espúrio;confiança media
+8e6f6f815b;outro;outro;;baixa;Enunciado contém apenas a palavra Teste sem descrição de tarefa;confiança baixa
+a39444e91f;fundamentos;entrada_saida;;media;Completar código com expressões aritméticas que resultem em oito usando operadores básicos;confiança media
+c1f339d41e;fundamentos;condicionais;;media;Rastreamento das linhas executadas em código condicional de verificação de idade para votar;confiança media
+6116ca060f;fundamentos;condicionais;;media;Rastreamento de linhas executadas em código com desconto condicional da cafeteria;confiança media
+9a7d118ce1;fundamentos;entrada_saida;;media;Leitura e cálculo simples mas título diz dobro e enunciado diz quadrado;confiança media
+edb006a53a;fundamentos;entrada_saida;;media;Foco em E/S com tuplas e placar ordenado provavelmente via sort() pronto sem implementar ordenação;confiança media
+8c1791a2db;fundamentos;entrada_saida;;media;Ler horários formatados e converter em segundos com aritmética simples;confiança media
+0fb0ab8678;fundamentos;lacos;;media;Laços aninhados com leitura de quantidade variável e condicionais para aprovação;confiança media
+5fa6a1c68a;strings_avancado;casamento_padroes;fundamentos;media;Implementar verificação de substring manualmente sem strstr equivale a casamento de padrões ingênuo;confiança media
+3ca5faf73b;fundamentos;lacos;;media;Desenho de bandeira ASCII com dimensões dependentes de N exige laços aninhados e condicionais;confiança media
+ba8e571272;fundamentos;strings_basico;;media;Leitura de palavras de direção comparando strings e atualizando coordenadas até voltar à origem;confiança media
+92ab81b6fd;busca;busca_sequencial;fundamentos;media;Busca linear de palavras numa lista com comparação de strings sem diferenciar caixa;confiança media
+32e4a32345;fundamentos;condicionais;;media;Ler números de ponto flutuante e testar igualdade aproximada com fabs e epsilon;confiança media
+934675cb56;fundamentos;vetores_matrizes;;media;Função recebe dois vetores e calcula média ponderada percorrendo-os;confiança media
+705a73728b;fundamentos;vetores_matrizes;;media;Remover ocorrências de um valor no vetor e detectar três consecutivos iguais;confiança media
+0cfd2e3233;fundamentos;condicionais;;media;Ordenar três valores com comparações condicionais sem exigir algoritmo de ordenação;confiança media
+33ed0f10b2;fundamentos;condicionais;;media;Cálculo de idade comparando datas com condicionais dentro de laço sobre N registros;confiança media
+2c7cd1c56e;fundamentos;lacos;;media;Leitura de listas de faltas e notas em laços com condicionais para classificar aprovação;confiança media
+a74473cf91;fundamentos;vetores_matrizes;;media;Correção de código sobre lista com soma máximo mínimo e múltiplos e enunciado parcialmente corrompido;confiança media
+b05b48b894;busca;busca_binaria;;media;Rastrear comparações da busca binária no papel mas as chaves de busca não constam no enunciado;confiança media
+f21f851dd5;strings_avancado;casamento_padroes;fundamentos;media;Verificar se padrão ocorre no texto exige busca ingênua de substring;confiança media
+458dc7fbb4;outro;outro;;baixa;Enunciado depende de questão anterior não fornecida e o tema não pode ser determinado;confiança baixa
+8a3a6ed68b;fundamentos;vetores_matrizes;fundamentos;media;Encontrar mediana sem ordenar usando laços aninhados de contagem sobre o vetor;confiança media
+1b6a56dcf3;fundamentos;entrada_saida;;media;Ler número e imprimir o cubo com cálculo simples e fórmula truncada no enunciado;confiança media
+73b8b3d4cd;fundamentos;lacos;;media;Calcular fatorial do número lido provavelmente com laço e recursão não exigida;confiança media
+db77adcd79;recursao;recursao_multipla;;media;Triângulo de Pascal recursivo em que cada valor depende de duas chamadas anteriores;confiança media
+4a901e3620;fundamentos;condicionais;;media;Função classifica triângulo por condicionais sobre os lados com leitura até EOF;confiança media
+6021b3872d;fundamentos;entrada_saida;;media;Leitura de arquivo binário e impressão dos valores e manipulação de arquivos;confiança media
+72b8e25806;fundamentos;vetores_matrizes;;media;Busca do maior elemento do vetor com retorno via ponteiro e leitura do vetor;confiança media
+a1f2ae487f;fundamentos;lacos;;media;Percorrer instantes de chegada acumulando tempo ligado da escada. Tema inferido da lógica.;confiança media
+6ffdac3d17;fundamentos;funcoes;;media;Função simples que divide inteiros e retorna valor real com quatro casas decimais.;confiança media
+50b68ba632;fundamentos;funcoes;;media;Função converte letra em inteiro e programa soma valores lidos até sentinela.;confiança media
+ed563f06c0;fundamentos;funcoes;;baixa;Enunciado incompleto sem o código da main. Apenas indica criar função de inversão.;confiança baixa
+426f9fe354;estruturas_lineares;lista_encadeada;;media;Operações clássicas de lista encadeada mas a descrição da saída está truncada;confiança media
+614edc41fd;estruturas_lineares;fila;;media;Fila com prioridade por idade que exige inserção no meio da estrutura encadeada;confiança media
+fd33f94eda;fundamentos;lacos;;media;Laço lendo eventos até sentinela e calculando o maior intervalo em segundos;confiança media
+ba77a474c1;fundamentos;lacos;;media;Somar série com do-while mas a fórmula da série foi omitida do enunciado;confiança media
+4f5e696c28;fundamentos;condicionais;;media;Descartar a maior e a menor de quatro notas via comparações e calcular média;confiança media
+cdad16e052;fundamentos;condicionais;;media;Ordenar apenas três números usando comparações com if sem exigir algoritmo de ordenação;confiança media
+698ebff80e;fundamentos;entrada_saida;;media;Leitura de valores e cálculo da lei dos cossenos com saída formatada;confiança media
+eda14715e3;fundamentos;entrada_saida;;media;Cálculo de notas com divisão inteira e resto sem estrutura complexa;confiança media
+8a83bfa4cd;fundamentos;entrada_saida;;media;Ler caractere e imprimir código ASCII usando formatação do printf;confiança media
+5568c9176b;fundamentos;entrada_saida;;media;Imprimir tamanhos de tipos com sizeof explorando tipos de dados;confiança media
+d9a448cf16;fundamentos;entrada_saida;;media;Ler código inteiro e imprimir caractere ASCII correspondente via formatação;confiança media
+052f8b3f8d;fundamentos;strings_basico;strings_avancado;media;Converter RNA para DNA e verificar ocorrência de substring na cadeia maior;confiança media
+e3300f549c;fundamentos;entrada_saida;;media;Cálculos trigonométricos diretos com funções matemáticas sem estruturas de controle relevantes;confiança media
+67db915af2;outro;outro;fundamentos;media;Manipulação de bits com operadores bitwise e laço não prevista na taxonomia;confiança media
+4497059bf0;outro;outro;fundamentos;media;Criptografia com XOR e troca de bytes via operadores bitwise fora da taxonomia;confiança media
+a4025ee9c3;fundamentos;lacos;;media;Gerar dígitos aleatórios com laço e comparar palpite calculando percentual de acertos;confiança media
+311cb7561d;fundamentos;condicionais;;media;Gerar número com srand fixo e comparar palpite com condicional;confiança media
+c8851bd79c;fundamentos;structs;;baixa;Enunciado muito curto sugere registros em tabela dinâmica sem detalhes;confiança baixa
+d8ecb5ff2d;fundamentos;lacos;;media;Laços aninhados para ler blocos e condicionais para classificar aprovação dos módulos;confiança media
+9b2c0c1800;fundamentos;lacos;;media;Contar bits 1 exige laço com operações bit a bit. Manipulação de bits não existe na taxonomia;confiança media
+9f5768eef8;fundamentos;lacos;;media;Laço com máscaras por shift e operador & para gerar a string rwx. Operações bit a bit fora da taxonomia;confiança media

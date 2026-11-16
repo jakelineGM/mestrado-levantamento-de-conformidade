@@ -1,0 +1,392 @@
+id;categoria;subtema;categoria_secundaria;confianca;justificativa
+3dcbe9fedb;arvores;avl;;alta;Exige implementar inserção em AVL com rotações simples e duplas e imprimir percursos pré e pós-ordem
+83ef048e2c;arvores;avl;;alta;Implementar inserção em ABB com atualização de alturas e rotação LL na raiz da árvore
+1726292d18;fundamentos;entrada_saida;;alta;Leitura de um número e impressão do seu quadrado
+0aad22ee28;fundamentos;condicionais;;alta;Decisão por cadeia if elif else com precedência de casos especiais conforme dia e temperatura
+e8b47cc2eb;fundamentos;vetores_matrizes;;alta;Função que verifica se uma matriz em lista de listas é identidade
+78a8906cad;fundamentos;entrada_saida;;alta;Ler linha com input e split e converter para inteiros e somar
+736be097af;fundamentos;entrada_saida;;media;Ler vários inteiros de uma string e somá-los com laço ou split
+a4bbcae855;arvores;avl;;alta;Inserção em AVL com rotações simples RR e LL e atualização de alturas
+99e35ea4a3;arvores;abb;recursao;alta;Inserção em ABB e percursos pré-ordem in-ordem e pós-ordem tipicamente recursivos
+b348dfbeb4;arvores;abb;;alta;Pesquisa de chaves em árvore binária de busca representada por dicionários
+c49a8e3a4a;arvores;avl;;alta;Inserção em ABB sem balanceamento e rotação RR aplicada na raiz
+f89c8385a0;ordenacao;bubble_sort;;alta;Implementar Bubble Sort imprimindo cada troca realizada
+465f5b7b36;ordenacao;insertion_sort;;alta;Implementar Insertion Sort imprimindo a lista a cada modificação
+39c04bd331;ordenacao;selection_sort;;alta;Implementar Selection Sort imprimindo cada troca realizada
+7994cc8348;ordenacao;quick_sort;fundamentos;alta;Ordenar tabela com Quick Sort por múltiplos critérios e parsing de jogos (enunciado truncado)
+04f8ecc4f6;ordenacao;merge_sort;recursao;alta;Implementar Merge Sort recursivo com intercalação das sublistas
+3398233a14;arvores;heap_estrutura;recursao;alta;Implementar operação max_heapify recursiva em vetor representando heap máxima
+3ef85c9e11;ordenacao;heap_sort;arvores;alta;Implementar Heap Sort construindo heap máxima e aplicando heapify
+96662b9bd1;ordenacao;merge_sort;fundamentos;alta;Classe ponto com __lt__ sobrecarregado e ordenação obrigatória por Merge Sort
+3edddf6093;ordenacao;quick_sort;recursao;alta;Implementar Quick Sort recursivo com particionamento de Hoare
+8af18aa464;estruturas_lineares;lista_encadeada;;alta;Exige lista circular encadeada para simular escalonamento round-robin com remoção de nós finalizados
+5c7fa86f13;estruturas_lineares;lista_encadeada;;media;Título indica lista ligada com remoção de ocorrências e busca de três consecutivos iguais
+8c2cd62808;estruturas_lineares;fila;;alta;Simulação de fila em que o aluno volta ao fim após Q minutos
+2b6a552bcd;estruturas_lineares;pilha;;alta;Operações explícitas de push e pop em pilha com soma de elementos
+1a1adb5cf0;estruturas_lineares;lista_encadeada;;alta;Implementar lista ligada com inserção no fim e remoção por valor
+d944821b0a;estruturas_lineares;lista_duplamente_encadeada;;alta;Enunciado exige lista duplamente encadeada para simular o monte de cartas
+23857090b6;outro;outro;;baixa;Enunciado sem sentido e sem informação para classificar
+2f58337f93;fundamentos;entrada_saida;;alta;Apenas imprimir uma mensagem fixa na saída
+8ce1aa1b1a;outro;outro;;baixa;Enunciado vago sem descrição de tarefa de programação
+f2ed11da80;fundamentos;entrada_saida;;media;Enunciado vago mas sugere apenas imprimir hello
+cbe685fd22;fundamentos;entrada_saida;;alta;Ler um número e imprimir seu dobro
+96a862bd7c;fundamentos;entrada_saida;;alta;Ler um número e imprimir seu quadrado
+ea3f2f2ebf;fundamentos;condicionais;;alta;Conversão simples e escolha entre três mensagens conforme intervalo de dias
+73c8ef49bd;fundamentos;vetores_matrizes;;media;Comparar tamanhos de duas listas e concatená-las com condicional simples
+17a102ea5d;fundamentos;vetores_matrizes;;media;Percorrer lista verificando ordem crescente ou decrescente sem implementar ordenação
+e82ba27b94;fundamentos;condicionais;;alta;Leitura repetida de tuplas e teste de múltiplas condições combinadas
+7d589e0cdc;fundamentos;funcoes;;alta;Elaborar função que calcula volume da esfera e imprimir com precisão
+ae053d0674;fundamentos;lacos;;alta;Teste de primalidade com laço sobre divisores ímpares até a raiz
+a20e3243ef;fundamentos;vetores_matrizes;estruturas_lineares;media;Manipular lista Python com pop e append funcionando como fila
+43f78e494b;fundamentos;lacos;;alta;Laço com sentinela zero acumulando a soma dos valores lidos
+d41d8cd98f;fundamentos;entrada_saida;;baixa;Enunciado vazio e tema inferido apenas pelo título sugerindo cálculo aritmético simples
+476a5c8484;fundamentos;entrada_saida;;alta;Ler raio e aplicar fórmula da área com leitura e impressão simples
+b940b31736;fundamentos;entrada_saida;;alta;Ler dois reais e imprimir a média aritmética com operação simples
+7d7fbf2b4a;fundamentos;entrada_saida;;alta;Ler inteiro e imprimir seu quadrado corrigindo código fornecido
+d40fd4f35a;fundamentos;entrada_saida;;alta;Ler número real e imprimir seu quadrado corrigindo código fornecido
+6aa666ae59;fundamentos;entrada_saida;;alta;Ler preço e aplicar desconto de 15% com cálculo aritmético direto
+b17b4b9de1;fundamentos;entrada_saida;;alta;Ler base e altura e calcular área do retângulo por fórmula
+70d5450d94;fundamentos;entrada_saida;;alta;Ler preço unitário e quantidade e imprimir o produto como total
+44c5e3b1ab;fundamentos;entrada_saida;;alta;Ler valor da compra e valor pago e calcular troco por subtração
+5ca95dfd2e;fundamentos;entrada_saida;;alta;Converter Celsius para Fahrenheit e formatar saída com duas casas decimais
+2d4de0740b;fundamentos;entrada_saida;;alta;Ler raio e calcular volume da esfera por fórmula direta
+529f74b29f;fundamentos;entrada_saida;;alta;Ler três reais e imprimir média aritmética com operação simples
+de425af90d;fundamentos;entrada_saida;;alta;Ler dois inteiros e exibir a soma com leitura e impressão básicas
+ffb0236f6b;fundamentos;lacos;funcoes;alta;Teste de primalidade com laço e retorno antecipado em função exigindo versão eficiente
+8cedcf60a9;ordenacao;bubble_sort;;alta;Implementar Bubble Sort modificado parando após K passagens da direita para esquerda
+8358e006ca;ordenacao;merge_sort;;media;Intercalar duas listas ordenadas que corresponde à etapa de merge do Merge Sort
+a550b747c8;ordenacao;quick_sort;;alta;Implementar particionamento de Hoare com pivô central usado no Quick Sort
+81c1213e12;ordenacao;merge_sort;;alta;Implementar Merge Sort estável para pares chave/valor comparando apenas chaves
+48ee586caf;arvores;heap_estrutura;recursao;alta;Implementar max_heapify recursivo restaurando propriedade de heap máxima em vetor
+b0ebfcfa01;ordenacao;quick_sort;recursao;alta;Implementar Quick Sort com particionamento de Hoare e recursão para pares chave/valor
+e927197e11;outro;outro;fundamentos;media;Simulação com escolha gulosa da ordem dos monstros. Ordenação pode usar sort() pronto. Guloso fora da taxonomia
+a8b3ccb768;busca;busca_binaria;;alta;Implementar busca binária modificada que retorna as chaves verificadas durante a busca
+d3a3a335a3;grafos;bfs;fundamentos;media;Preenchimento por inundação em matriz a partir do rio. Exige BFS ou DFS sobre células vizinhas
+6e506986d4;grafos;bfs;fundamentos;media;Preenchimento por inundação em matriz a partir do rio. Exige BFS ou DFS sobre células vizinhas
+916149c4c5;fundamentos;condicionais;;alta;Encontrar maior e menor de cinco valores com comparações e sem uso de listas
+1f34479a1c;fundamentos;condicionais;;alta;Calcular discriminante e maior raiz real tratando com condicionais o caso sem raiz
+014f5e63e4;fundamentos;lacos;fundamentos;alta;Leitura até sentinela em múltiplas linhas acompanhando maior e menor valor sem listas
+d05605e65a;fundamentos;lacos;;alta;Somar números pares de 0 até N com laço simples
+8fa4285e90;fundamentos;entrada_saida;;alta;Ler uma linha e usar eval para imprimir o valor e seu tipo
+5351882fce;fundamentos;lacos;complexidade;alta;Reescrever Fibonacci recursivo exponencial como versão iterativa e imprimir n termos
+3c74fd5409;complexidade;analise_complexidade;fundamentos;alta;Comparar funções de custo de Insertion e Merge Sort para um n dado
+920dbddf74;recursao;recursao_simples;fundamentos;alta;Função recursiva explícita com casos base e chamada única para verificar a propriedade
+8bd839f3dc;complexidade;analise_complexidade;fundamentos;alta;Comparar funções de custo de Bubble e Insertion Sort no pior caso para n dado
+7c5bebd0bb;estruturas_lineares;pilha;;alta;Manipular pilha e fila com empilhar e desempilhar e enfileirar e desenfileirar conforme regras
+8a3d600c67;estruturas_lineares;fila;;alta;Simular fila circular round-robin com reinserção de alunos no fim da fila
+383e0d604d;estruturas_lineares;pilha;strings_avancado;media;Verificar balanceamento de delimitadores. Problema clássico resolvido com pilha embora não explicitada
+ac09b7ed51;estruturas_lineares;pilha;;alta;Manipular pilha e fila com empilhar e desempilhar e enfileirar e desenfileirar conforme regras
+29ffb8eedc;estruturas_lineares;pilha;;alta;Operações push e pop explícitas em pilha com soma de elementos do topo
+f1dd1e6b42;estruturas_lineares;lista_duplamente_encadeada;;alta;Enunciado exige lista duplamente encadeada com busca e reinserção invertida no fim
+25ac6bc4de;estruturas_lineares;lista_encadeada;busca;alta;Implementar lista ligada com inserção no início e busca sequencial para consultas de posição
+4c11cb7d35;hash;tabela_hash;;alta;Implementar tabela hash com função de soma de caracteres e sondagem linear para chaves string
+32f6a5dd6a;hash;tabela_hash;;alta;Tabela hash com método da multiplicação e sondagem quadrática suportando inserção remoção e busca
+d95c3567cd;hash;tabela_hash;;alta;Inserção em tabela hash com método da divisão e sondagem linear
+a89bbb43f3;grafos;dfs;;alta;Implementar busca em profundidade em grafo direcionado com listas de adjacências e contar alcançáveis
+780fd92683;grafos;menor_caminho;;alta;Detectar ciclo negativo em grafo ponderado direcionado usando Floyd-Warshall conforme título
+c98bfbefc5;grafos;menor_caminho;;alta;Implementar Dijkstra a partir de cada vértice para obter distâncias entre todos os pares
+5d731d359c;grafos;representacao;;alta;Implementar grafo com listas de adjacências com inserção remoção e consulta de arestas ponderadas
+f1ddcf2c5a;estruturas_lineares;lista_encadeada;fundamentos;alta;Criar lista encadeada e inserir no início usando ponteiros em C
+6ea9b2aa44;estruturas_lineares;lista_encadeada;fundamentos;alta;Inserção no início e remoção da primeira ocorrência de elemento em lista encadeada em C
+5b9e22a29d;estruturas_lineares;lista_encadeada;fundamentos;alta;Inserção e remoção no início de lista encadeada em C com ponteiros
+25b3287918;ordenacao;insertion_sort;;alta;Implementar Insertion Sort imprimindo a lista a cada modificação de valor
+7b2b81a77d;ordenacao;selection_sort;;alta;Implementar Selection Sort imprimindo cada troca realizada
+c6e83fcfd5;ordenacao;bubble_sort;;alta;Implementar Bubble Sort com flag imprimindo cada comparação realizada
+04488cc9eb;ordenacao;counting_sort;;media;Pigeonhole Sort não consta na taxonomia e é ordenação por contagem de chaves inteiras
+4acfd1d091;ordenacao;counting_sort;;alta;Implementar Counting Sort imprimindo vetor de contagem e saída ordenada
+13b8e00616;ordenacao;bucket_sort;;alta;Implementar Bucket Sort para ordenar tuplas por valor mas enunciado é bem curto
+6fbe20699c;ordenacao;radix_sort;;alta;Implementar Radix Sort base 10 imprimindo cada ordenação parcial por dígito
+475b8cbec0;arvores;abb;recursao;alta;Inserção recursiva em ABB e impressão dos percursos pré-ordem in-ordem e pós-ordem
+f06bf82e7f;arvores;abb;recursao;alta;Percursos pré-ordem in-ordem e pós-ordem em ABB representada por dicionários
+9bd7317417;arvores;abb;;alta;Inserção e remoção de nós com grau zero ou um em ABB com percurso pré-ordem
+7faeacc792;arvores;abb;recursao;alta;Implementar busca recursiva de chave em árvore binária de busca representada por dicionários
+1e41431bc1;arvores;abb;;alta;Inserir chaves em ABB e encontrar antecessor e sucessor de nós com grau 2
+f9dc2ff24a;arvores;abb;;alta;Inserção e remoção em ABB com substituição pelo sucessor e impressão em pré-ordem
+7baadd4828;fundamentos;entrada_saida;;alta;Ler dois valores e imprimir o produto usando operação aritmética simples
+b49347f8a8;fundamentos;entrada_saida;;media;Ler número e imprimir resultado aritmético. Título diz dobro e enunciado diz quadrado com texto espúrio
+8e6f6f815b;outro;outro;;baixa;Enunciado contém apenas a palavra Teste sem descrição de tarefa
+46b8119029;fundamentos;entrada_saida;;alta;Calcular divisão inteira e resto de 50 moedas entre três guerreiros e imprimir
+a6b0280f0a;fundamentos;entrada_saida;;alta;Calcular e imprimir total da conta por multiplicação simples
+a39444e91f;fundamentos;entrada_saida;;media;Completar código com expressões aritméticas que resultem em oito usando operadores básicos
+ee5f9d1e9f;fundamentos;entrada_saida;;alta;Imprimir mensagem fixa na tela
+8361984501;fundamentos;entrada_saida;;alta;Calcular e imprimir diferença por subtração simples
+b7d45dad45;fundamentos;entrada_saida;;alta;Imprimir figura fixa formada por caracteres na tela
+73b5174213;fundamentos;entrada_saida;;alta;Ler inteiro e imprimir o seu dobro
+d9b74a98a7;fundamentos;entrada_saida;;alta;Calcular e imprimir soma de dois gastos
+a899bcee5a;fundamentos;entrada_saida;;alta;Imprimir valor de expressão aritmética com precedência de operadores
+aff379c863;fundamentos;strings_basico;;alta;Converter string fixa para minúsculas usando método pronto da linguagem
+379f9fb140;fundamentos;entrada_saida;;alta;Ler ano e imprimir várias expressões em um único print
+8edf93d250;fundamentos;entrada_saida;;alta;Dividir conta e imprimir resultado formatado com duas casas decimais
+131cda29ca;fundamentos;entrada_saida;;alta;Ler um nome e imprimi-lo de volta
+ebde3d2ebb;fundamentos;entrada_saida;;alta;Aplicar fórmula da área do hexágono e imprimir com quatro casas decimais
+458adf1834;fundamentos;entrada_saida;;alta;Cálculo aritmético simples de divisão com impressão do resultado sem entrada nem decisões
+2532b34c19;fundamentos;strings_basico;;alta;Conversão de string fixa para maiúsculas usando operação básica de string
+71380bf282;fundamentos;entrada_saida;;alta;Leitura de dois números e impressão do produto sem estruturas de controle
+f0acfac90c;fundamentos;condicionais;;alta;Cálculo de tarifa com decisão por faixa de consumo usando if/else
+5b09dceae4;fundamentos;condicionais;;alta;Cálculo de custo com regra diferente acima de 10 mil hectares via condicional
+d4f1c0dee0;fundamentos;condicionais;;alta;Cálculo do total do lanche e decisão Sim/Nao comparando com valor disponível
+a3735e4291;fundamentos;condicionais;;alta;Desconto aplicado condicionalmente conforme a quantidade de jogos comprados
+193961fa26;fundamentos;condicionais;;alta;Verificação de idade maior ou igual a 18 com if/else
+c1f339d41e;fundamentos;condicionais;;media;Rastreamento das linhas executadas em código condicional de verificação de idade para votar
+035d9ec19b;fundamentos;condicionais;;alta;Decisão simples paga/nao_paga baseada na idade lida
+f6d2693bf5;fundamentos;condicionais;;alta;Teste de divisibilidade com impressão de quociente ou resto via if/else
+321d07cec1;fundamentos;condicionais;;alta;Correção de programa que verifica paridade com condicional simples
+3f380a71ca;fundamentos;condicionais;;alta;Preço unitário definido por condicional conforme quantidade de morangos
+d42933511f;fundamentos;condicionais;;alta;Escolha de item e verificação de saldo suficiente com condicionais encadeadas
+6116ca060f;fundamentos;condicionais;;media;Rastreamento de linhas executadas em código com desconto condicional da cafeteria
+5fb9e50df2;fundamentos;condicionais;;alta;Aplicação de fórmula física e decisão Sim/Nao comparando posição com 1000 metros
+1a27ad8edc;fundamentos;condicionais;;alta;Conversão de temperatura com escolha da fórmula conforme escala informada
+93f7363532;fundamentos;condicionais;;alta;Aprovação de empréstimo comparando prestação com 20% da renda via if/else
+9a7d118ce1;fundamentos;entrada_saida;;media;Leitura e cálculo simples mas título diz dobro e enunciado diz quadrado
+edb006a53a;fundamentos;entrada_saida;;media;Foco em E/S com tuplas e placar ordenado provavelmente via sort() pronto sem implementar ordenação
+9038f1b6bd;fundamentos;vetores_matrizes;;alta;Criar lista com [0]*x e preenchê-la com laço for no intervalo dado
+fd772c2fe5;fundamentos;strings_basico;;alta;Usa split e list.sort prontos sem implementar ordenação e manipula string e lista
+8c1791a2db;fundamentos;entrada_saida;;media;Ler horários formatados e converter em segundos com aritmética simples
+0fb0ab8678;fundamentos;lacos;;media;Laços aninhados com leitura de quantidade variável e condicionais para aprovação
+aa1e4f026f;fundamentos;lacos;;alta;Laço com condição de parada composta e contagem de pares lidos
+05e9cddde8;fundamentos;lacos;;alta;Laço de leitura até condição de parada com zero e contagem
+bcc4e223f3;fundamentos;condicionais;;alta;Condicionais encadeados por faixas de idade explicitamente pedidos
+10bbdaf9a9;fundamentos;condicionais;;alta;Seleção múltipla com switch case para processar o operador
+c91c8ba3b1;fundamentos;lacos;;alta;Laço com sentinela acompanhando menor positivo e maior negativo
+7dd8ca7a19;fundamentos;lacos;;alta;Laço com sentinela zero calculando maior e menor valores
+8ba9fbba9a;fundamentos;lacos;;alta;Laço até ambos zero contando ocorrências do número zero
+4bba2fc1de;fundamentos;funcoes;;alta;Compor funções auxiliares de datas para implementar a função epoca
+a4a3727480;fundamentos;funcoes;;alta;Elaborar função que retorna se ano é bissexto usando condicionais
+87e0d5666c;fundamentos;funcoes;;alta;Função que conta anos bissextos anteriores a um ano dado
+e37fe86046;fundamentos;funcoes;;alta;Completar função diasdomes com condicionais sobre mês e ano bissexto
+a3e3d8dcf1;fundamentos;funcoes;;alta;Função diadoano reutilizando funções anteriores para diferença de datas
+68d61079b8;fundamentos;funcoes;;alta;Decomposição em funções auxiliares para calcular dia da semana
+baf3164349;fundamentos;funcoes;;alta;Implementar funções ler_hora e imprimir_hora com timestamp e aritmética modular
+16327b9d26;recursao;recursao_simples;;alta;Função recursiva explícita para multifatorial por relação de recorrência
+819b7edd26;fundamentos;vetores_matrizes;;alta;Função que transpõe matriz e imprime diagonal principal
+ff748c5aaf;fundamentos;vetores_matrizes;;alta;Simulação de movimentos em matriz NxM guiada por string de comandos com contadores de moedas e vida
+d3fca6aa83;fundamentos;vetores_matrizes;;alta;Funções para imprimir vetor e matriz formatados em notação C reutilizando imprime_vetor
+5fa6a1c68a;strings_avancado;casamento_padroes;fundamentos;media;Implementar verificação de substring manualmente sem strstr equivale a casamento de padrões ingênuo
+0b747ff88d;fundamentos;vetores_matrizes;;alta;Leitura de vetor e impressão formatada com chaves e vírgulas por meio de função
+2d37e19955;fundamentos;lacos;;alta;Enunciado explicita exercício de laços desenhando tabuleiro com putchar sem vetores ou matrizes
+f080bd61c4;fundamentos;vetores_matrizes;;alta;Matriz de caracteres usada como tabuleiro para simular queda e colisão de peças quadradas
+3ca5faf73b;fundamentos;lacos;;media;Desenho de bandeira ASCII com dimensões dependentes de N exige laços aninhados e condicionais
+0177fdb3f7;fundamentos;ponteiros;;alta;Leitura de linha com realloc e verificação de palíndromo ignorando pontuação e caixa
+6fdf2d85e3;fundamentos;ponteiros;;alta;Vetor de ponteiros redimensionável com realloc e alocação dinâmica de cada frase lida
+67c63c08ea;recursao;recursao_simples;;alta;Função recursiva implementando recorrência de Newton para aproximar raiz quadrada
+59a3ba05cc;recursao;recursao_simples;;alta;Função recursiva que conta termos da sequência de Collatz até chegar em 1
+aa6df915d1;recursao;recursao_simples;;alta;Função recursiva que imprime representação binária usando divisões sucessivas por 2
+e93e0f1db2;recursao;recursao_simples;;alta;Paridade calculada recursivamente por redução de n para n-1 com caso base zero
+ee19357189;recursao;recursao_simples;;alta;Algoritmo de Euclides recursivo para calcular máximo divisor comum
+6a3b37645f;fundamentos;strings_basico;;alta;Verificação de palíndromo em frase ignorando pontuação e diferenças de maiúsculas e minúsculas
+fa33cada95;fundamentos;strings_basico;;alta;Implementar manualmente concatenação de strings imitando strcat
+609065eaeb;fundamentos;strings_basico;;alta;Implementar manualmente strlen e testar se o tamanho divide 42
+7069acfbf0;fundamentos;strings_basico;;alta;Leitura de strings e acesso ao primeiro caractere para abreviar o nome
+7a99bf3c26;fundamentos;strings_basico;;alta;Leitura de linha inteira e contagem de vogais percorrendo a string em função
+ba8e571272;fundamentos;strings_basico;;media;Leitura de palavras de direção comparando strings e atualizando coordenadas até voltar à origem
+86bb34aa09;fundamentos;strings_basico;;alta;Percorrer a string comparando extremidades sem diferenciar maiúsculas e minúsculas dentro de uma função
+4d27078952;fundamentos;structs;;alta;Usa struct Ponto e vetor via ponteiro para somar distâncias entre pontos consecutivos
+ecac2196d5;fundamentos;ponteiros;;alta;Exige alocação dinâmica do vetor com funções separadas para alocar ler inverter e imprimir
+6532a9b66c;fundamentos;structs;;alta;Struct para vetor 3D passada por ponteiro e cálculo do produto escalar
+92ab81b6fd;busca;busca_sequencial;fundamentos;media;Busca linear de palavras numa lista com comparação de strings sem diferenciar caixa
+d701ca19bd;fundamentos;ponteiros;;alta;Alocação dinâmica de vários vetores equivalente a uma matriz dinâmica impressos em ordem inversa
+a9aa4c6f6f;fundamentos;ponteiros;;alta;Função retorna vetor alocado com malloc e devolve o tamanho por parâmetro ponteiro
+ee2c6fd9b9;fundamentos;vetores_matrizes;;alta;Preencher vetor já alocado com inteiros do intervalo A a B usando laço
+32e4a32345;fundamentos;condicionais;;media;Ler números de ponto flutuante e testar igualdade aproximada com fabs e epsilon
+ce97d90bbe;busca;busca_sequencial;;alta;Enunciado pede explicitamente função de busca sequencial retornando índice ou -1
+039a7ebb2f;fundamentos;vetores_matrizes;;alta;Preencher vetor já alocado com inteiros de 1 a N usando laço
+934675cb56;fundamentos;vetores_matrizes;;media;Função recebe dois vetores e calcula média ponderada percorrendo-os
+37222368e6;fundamentos;condicionais;;alta;Comparação entre três inteiros para encontrar o menor
+891309389d;fundamentos;entrada_saida;;alta;Apenas imprimir uma mensagem fixa
+a37d8b0d37;fundamentos;entrada_saida;;alta;Leitura formatada HH:MM:SS e conversão aritmética para segundos
+de86b397d5;fundamentos;entrada_saida;;alta;Conversão de segundos com divisão e resto e saída formatada HH:MM:SS
+9b064f90a3;fundamentos;condicionais;;alta;Comparação simples entre dois inteiros
+9978376f90;fundamentos;condicionais;;alta;Determinar maior e menor de três inteiros e imprimir a diferença
+705a73728b;fundamentos;vetores_matrizes;;media;Remover ocorrências de um valor no vetor e detectar três consecutivos iguais
+40c7084902;ordenacao;insertion_sort;;alta;Implementar Insertion Sort imprimindo o vetor a cada modificação
+c543bc7d58;estruturas_lineares;lista_encadeada;fundamentos;alta;Enunciado pede lista encadeada com inserção no fim e remoção da primeira ocorrência apesar do título citar vetor
+f7f9517e4b;fundamentos;lacos;;alta;Laço com sentinela -1 e condicional para achar o menor número par
+741670b1fe;fundamentos;lacos;;alta;Laços aninhados repetindo números até o par sentinela 0 0
+a598a548eb;fundamentos;lacos;;alta;Laços aninhados com sentinela processando várias listas e buscando o menor par
+49a6a05f48;fundamentos;entrada_saida;;alta;Conversão de moedas com divisão inteira e resto e saída formatada
+0021bab3d6;fundamentos;condicionais;;alta;Comparações condicionais entre quatro inteiros para encontrar o menor
+7d3d8ed5cd;fundamentos;entrada_saida;;alta;Conversão de unidades com aritmética inteira e operações de divisão e resto
+0cfd2e3233;fundamentos;condicionais;;media;Ordenar três valores com comparações condicionais sem exigir algoritmo de ordenação
+33ed0f10b2;fundamentos;condicionais;;media;Cálculo de idade comparando datas com condicionais dentro de laço sobre N registros
+fbe52b8b50;fundamentos;condicionais;;alta;Regras de decisão por dia e temperatura aplicadas em laço de consultas
+2c7cd1c56e;fundamentos;lacos;;media;Leitura de listas de faltas e notas em laços com condicionais para classificar aprovação
+ed3323297d;fundamentos;lacos;;alta;Desenho de bandeira ASCII com laços aninhados e condicionais por linha e coluna
+8ba7f282c4;fundamentos;lacos;;alta;Soma de pares em intervalo com laço e consultas até sentinela 0 0
+24ba8635f8;fundamentos;lacos;;alta;Laço para média das listas e cálculo de média harmônica ponderada com caso especial
+bd691b7c1f;fundamentos;entrada_saida;;alta;Leitura de um número e impressão do seu quadrado
+a74473cf91;fundamentos;vetores_matrizes;;media;Correção de código sobre lista com soma máximo mínimo e múltiplos e enunciado parcialmente corrompido
+310fed7f42;fundamentos;strings_basico;;alta;Função que verifica se uma string é palíndromo
+beceb9cc5c;fundamentos;vetores_matrizes;;alta;Função percorre matriz NxN contando ocorrências de K
+380f878500;fundamentos;vetores_matrizes;;alta;Função que modifica vetor substituindo elementos por diferenças consecutivas
+4435c95ffb;fundamentos;vetores_matrizes;;alta;Função que inverte vetor trocando elementos simétricos
+6200f16960;fundamentos;vetores_matrizes;;alta;Percorrer vetor subtraindo delta de cada elemento com parâmetro por referência (ponteiro)
+928f979ce2;fundamentos;vetores_matrizes;;alta;Percorrer vetor verificando alternância entre elementos consecutivos
+dcf5e8f493;fundamentos;vetores_matrizes;;alta;Percorrer vetor substituindo valores conforme condicionais por faixa
+0c0c3dca8f;fundamentos;lacos;;alta;Cálculo iterativo do produto dos n primeiros pares com laço
+b05b48b894;busca;busca_binaria;;media;Rastrear comparações da busca binária no papel mas as chaves de busca não constam no enunciado
+c13e59eec2;fundamentos;lacos;;alta;Soma iterativa dos quadrados até N sem fórmula pronta
+e98566dd58;busca;busca_binaria;;alta;Enunciado exige busca binária para verificar ocorrência única da chave em vetor ordenado
+f21f851dd5;strings_avancado;casamento_padroes;fundamentos;media;Verificar se padrão ocorre no texto exige busca ingênua de substring
+2c9e417d5c;fundamentos;strings_basico;;alta;Contar ocorrências de letra em string ignorando maiúsculas e minúsculas
+085a1372df;fundamentos;vetores_matrizes;;alta;Apenas verificar se o vetor está ordenado sem implementar ordenação
+458dc7fbb4;outro;outro;;baixa;Enunciado depende de questão anterior não fornecida e o tema não pode ser determinado
+a20c3aabca;ordenacao;insertion_sort;fundamentos;alta;Implementar insertion sort decrescente sem usar for e com laços while
+fea4882f24;fundamentos;vetores_matrizes;;alta;Manipular matriz do campo minado verificando jogada e estado do jogo
+48351bc47b;fundamentos;vetores_matrizes;;alta;Calcular soma acumulada (prefixos) no próprio vetor
+ea1aa0efd6;fundamentos;vetores_matrizes;;alta;Percorrer matriz NxN buscando o maior elemento
+b675c2c044;fundamentos;vetores_matrizes;;alta;Comparar soma da diagonal principal com a soma dos demais elementos da matriz
+3273cd5f90;fundamentos;vetores_matrizes;;alta;Contar ocorrências de zeros e uns em matriz quadrada
+931753d985;fundamentos;vetores_matrizes;;alta;Percorrer matriz imprimindo tabuleiro com saída formatada conforme códigos
+373e45229d;fundamentos;vetores_matrizes;;alta;Somar elementos da diagonal secundária de matriz NxN
+0abd15e8e3;fundamentos;lacos;;alta;Fibonacci calculado iterativamente pois o enunciado proíbe recursão
+aba41b4962;fundamentos;vetores_matrizes;fundamentos;alta;Percorrer matriz NxN verificando diagonais principal e secundária e demais posições em função
+a87b04d299;fundamentos;vetores_matrizes;fundamentos;alta;Função que percorre vetor calculando média e desvio padrão
+8a3a6ed68b;fundamentos;vetores_matrizes;fundamentos;media;Encontrar mediana sem ordenar usando laços aninhados de contagem sobre o vetor
+39dcfb8b8d;fundamentos;vetores_matrizes;fundamentos;alta;Percorrer matriz contando células com códigos de bomba 9 e 19
+1fba7984d2;fundamentos;vetores_matrizes;fundamentos;alta;Percorrer matriz contando bombas vizinhas de cada célula com tratamento de bordas
+454c7bb46c;ordenacao;quick_sort;recursao;alta;Quicksort modificado para ordenação parcial obtendo os K menores
+a9328cda6d;estruturas_lineares;fila;recursao;alta;Fila com lista encadeada impressa ao contrário usando recursão em uma passada
+52245c52a9;estruturas_lineares;pilha;estruturas_lineares;alta;Operações criar inserir e remover de pilha com lista encadeada dinâmica
+baa82ac52c;estruturas_lineares;lista_encadeada;;alta;Remoção do primeiro nó com altura igual à chave em lista encadeada
+5873db7413;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada verificando se valores são estritamente crescentes
+d20c918566;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada imprimindo elementos em posições pares
+a28b470f24;ordenacao;quick_sort;ordenacao;alta;Quicksort híbrido com insertion sort para partições pequenas ordenando por nome
+51e7311a0b;estruturas_lineares;lista_encadeada;;alta;Verificar propriedade de simetria entre metades de lista encadeada de inteiros
+f1d0f1a80a;estruturas_lineares;lista_encadeada;fundamentos;alta;Liberar todos os nós de uma lista encadeada da memória
+b74d18c3b9;estruturas_lineares;lista_encadeada;;alta;Remover elemento da k-ésima posição de lista encadeada
+47d56a46bd;ordenacao;merge_sort;recursao;alta;Implementar mergesort para vetor de structs ordenando por nome
+e262a9a131;estruturas_lineares;lista_encadeada;fundamentos;alta;Transferir elementos de lista encadeada para vetor liberando memória dos nós
+364381bc20;estruturas_lineares;lista_encadeada;recursao;alta;Imprimir lista encadeada ao contrário sem cópia sugerindo uso de recursão
+063659b014;ordenacao;quick_sort;recursao;alta;Implementar quicksort para vetor de structs ordenando pelo campo id
+7ecdd61c8a;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada somando valores dos nós
+7558639983;estruturas_lineares;lista_encadeada;;alta;Remoção do segundo nó em lista encadeada circular mantendo o encadeamento circular
+9a761a565a;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada para achar o maior valor e remover o nó correspondente
+4932be267a;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada circular contando nós com id igual a K
+a4b377588c;estruturas_lineares;lista_encadeada;;alta;Percorrer lista encadeada para somar as alturas dos três últimos elementos
+a8e2376671;ordenacao;quick_sort;fundamentos;alta;Implementar quicksort decrescente por altura em vetor de structs tipoPessoa
+cce855a85d;estruturas_lineares;lista_encadeada;;alta;Implementar criar inserir e remover atual em lista circular com encadeamento dinâmico
+dad935fc22;estruturas_lineares;fila;;alta;Implementar criar inserir e remover em fila com lista encadeada dinâmica
+7be3f936f1;estruturas_lineares;lista_encadeada;fundamentos;alta;Percorrer lista encadeada comparando cada valor com o máximo de um vetor
+8af0e158db;estruturas_lineares;lista_encadeada;;alta;Percorrer duas listas encadeadas em paralelo comparando valores na mesma posição
+cf5b1f3169;estruturas_lineares;pilha;fundamentos;alta;Empilhar em ordem os elementos de um vetor de inteiros
+1b6a56dcf3;fundamentos;entrada_saida;;media;Ler número e imprimir o cubo com cálculo simples e fórmula truncada no enunciado
+73b8b3d4cd;fundamentos;lacos;;media;Calcular fatorial do número lido provavelmente com laço e recursão não exigida
+c207833f19;fundamentos;entrada_saida;;alta;Ler um número e imprimir seu quadrado com cálculo aritmético simples
+1fe626c31d;fundamentos;strings_basico;;alta;Ler linhas de arquivo texto e verificar se cada string é palíndromo
+d7de791ad5;fundamentos;condicionais;;alta;Verificar intervalo de hora com condicional e operador lógico
+e388952347;fundamentos;condicionais;;alta;Condicional simples comparando comprimento da senha com mínimo de 8
+339df43d9c;fundamentos;condicionais;;alta;Identificar protocolo pelo número da porta com condicionais ou switch
+884675d771;fundamentos;condicionais;;alta;Classificar volume de dados em faixas usando condicionais encadeadas
+66f164122f;fundamentos;condicionais;;alta;Condicional simples verificando se o octeto é igual a 127
+54fe41b88e;fundamentos;condicionais;;alta;Classificar nota real em faixas de gravidade usando condicionais encadeadas
+509fab2b4c;fundamentos;condicionais;;alta;Exige switch para mapear código numérico ao nome do cargo com caso padrão
+2c9ab949e3;fundamentos;condicionais;;alta;Regras de decisão com condições compostas sobre IP horário e tentativas
+86980f0e24;fundamentos;condicionais;;alta;Simples verificação condicional do número de tentativas para definir status da conta
+db77adcd79;recursao;recursao_multipla;;media;Triângulo de Pascal recursivo em que cada valor depende de duas chamadas anteriores
+442c0398ab;recursao;recursao_simples;;alta;Percorrer matriz recursivamente em quatro direções a partir de uma posição dada
+b4759840ff;fundamentos;structs;;alta;Uso explícito de struct para datas e cálculo da distância em dias entre elas
+885d421087;fundamentos;structs;;alta;Definir structs de retângulo e círculo e funções que retornam ponteiros para elas
+0a8c44632a;fundamentos;structs;;alta;Struct de aluno acessada por vetor de ponteiros para imprimir aprovados
+3b4b2916b6;fundamentos;structs;;alta;Structs aninhadas Ponto e Círculo com função de interseção via ponteiros
+95b880c592;fundamentos;structs;;alta;Struct Ponto e função que verifica se ponto está dentro do retângulo
+efe98bfb12;fundamentos;structs;;alta;Struct de vetor 3D e função de produto escalar recebendo ponteiros
+4a901e3620;fundamentos;condicionais;;media;Função classifica triângulo por condicionais sobre os lados com leitura até EOF
+6021b3872d;fundamentos;entrada_saida;;media;Leitura de arquivo binário e impressão dos valores e manipulação de arquivos
+72b8e25806;fundamentos;vetores_matrizes;;media;Busca do maior elemento do vetor com retorno via ponteiro e leitura do vetor
+9feb1853ea;fundamentos;vetores_matrizes;;alta;Verificar se matriz quadrada é identidade percorrendo seus elementos
+8775e8af17;fundamentos;vetores_matrizes;;alta;Função calcula média ponderada percorrendo vetores de valores e pesos
+8978a62c8c;fundamentos;vetores_matrizes;;alta;Gerar matriz transposta e substituir elementos por somatórios de linha ou coluna
+897a8cf0d5;fundamentos;vetores_matrizes;;alta;Verificar se elementos acima da diagonal principal da matriz são zero
+7bec27937d;fundamentos;vetores_matrizes;;alta;Percorrer vetor verificando se elementos formam progressão aritmética e retornar a razão
+62e6782f4a;fundamentos;vetores_matrizes;;alta;Inverter a ordem dos elementos de um vetor in place
+2883dccb75;fundamentos;vetores_matrizes;;alta;Preencher vetor de 10 posições contando medidas por intervalo. Recebe vetores via ponteiros.
+2f3d4fcb3c;fundamentos;vetores_matrizes;;alta;Acessar posição de matriz 10x10 e verificar paridade do elemento via função.
+a1f2ae487f;fundamentos;lacos;;media;Percorrer instantes de chegada acumulando tempo ligado da escada. Tema inferido da lógica.
+6ffdac3d17;fundamentos;funcoes;;media;Função simples que divide inteiros e retorna valor real com quatro casas decimais.
+a2c004b6f0;fundamentos;condicionais;;alta;Uso obrigatório de switch-case para listar estados por região. Envolve leitura de string.
+2d4010e699;fundamentos;condicionais;;alta;Enunciado exige explicitamente switch-case para mapear número ao dia da semana.
+1f87a37069;fundamentos;condicionais;;alta;Switch-case obrigatório para dias do mês com tratamento de ano bissexto e laço com sentinela.
+9b5755ed4f;fundamentos;lacos;;alta;Função que calcula iterativamente o produto dos n primeiros pares positivos.
+50b68ba632;fundamentos;funcoes;;media;Função converte letra em inteiro e programa soma valores lidos até sentinela.
+c147eb9c19;fundamentos;lacos;;alta;Laço while para extrair dígitos e somar quadrados usando função auxiliar.
+abb2455203;fundamentos;lacos;;alta;Função com laço para testar primalidade e leitura repetida até sentinela zero.
+8efeda0195;fundamentos;lacos;;alta;Cálculo iterativo do termo de Fibonacci com laço for exigido explicitamente.
+b3757d92de;fundamentos;ponteiros;;alta;Função altera numerador e denominador via ponteiros dividindo pelo MDC.
+e37aae49d0;fundamentos;ponteiros;;alta;Função calcula lado do triângulo e devolve resultado por parâmetro ponteiro.
+b63d9bb5b8;fundamentos;strings_basico;;alta;Verificar se string lida é palíndromo comparando extremidades.
+b0dd9acaed;fundamentos;ponteiros;;alta;Função recebe endereço de inteiro e armazena o quadrado nele.
+726d119c37;fundamentos;ponteiros;;alta;Função recebe ponteiro para caractere e programa encontra o maior caractere lido.
+a3af72cd44;fundamentos;ponteiros;;alta;Função retorna situação e grava média via ponteiro. Usa condicionais para classificar.
+ed563f06c0;fundamentos;funcoes;;baixa;Enunciado incompleto sem o código da main. Apenas indica criar função de inversão.
+870259cfd4;fundamentos;ponteiros;;alta;Função calcula área e perímetro do hexágono retornando valores por ponteiros.
+7ed03ccf8d;estruturas_lineares;lista_encadeada;;alta;Função que percorre a lista encadeada contando os nós
+191aed21a4;estruturas_lineares;lista_encadeada;;alta;Percorrer a lista encadeada contando nós com info maior que x
+5fa2b674a7;estruturas_lineares;lista_encadeada;;alta;Percorrer a lista encadeada até o último nó e retornar seu valor
+263e7a44d0;estruturas_lineares;lista_encadeada;;alta;Remoção de todas as ocorrências de x em uma lista encadeada
+426f9fe354;estruturas_lineares;lista_encadeada;;media;Operações clássicas de lista encadeada mas a descrição da saída está truncada
+9fc24ae4f9;estruturas_lineares;lista_encadeada;;alta;Implementar remoção no início e no final de uma lista encadeada
+c48d876725;estruturas_lineares;lista_encadeada;;alta;Concatenar duas listas encadeadas transferindo os nós da segunda para a primeira
+614edc41fd;estruturas_lineares;fila;;media;Fila com prioridade por idade que exige inserção no meio da estrutura encadeada
+a8aaa6031f;estruturas_lineares;pilha;;alta;Simular push e pop de uma pilha implementada com lista
+b1b77ed9e8;estruturas_lineares;lista_encadeada;;alta;Intercalar nós de duas listas encadeadas em nova lista sem ordenação
+fd33f94eda;fundamentos;lacos;;media;Laço lendo eventos até sentinela e calculando o maior intervalo em segundos
+89588e0783;fundamentos;condicionais;;alta;Decidir o vencedor de pedra papel e tesoura com condicionais
+9635edd446;fundamentos;lacos;;alta;Laço lendo N números e acompanhando o maior e o menor
+98148cc44d;fundamentos;condicionais;;alta;Verificar multiplicidade com resto da divisão e condicional
+69e604b072;fundamentos;condicionais;;alta;Comparar três inteiros com condicionais para achar o maior
+f14d65097d;fundamentos;condicionais;;alta;Critério de aprovação com condicionais encadeadas e cálculo de média
+c64c54a8a9;fundamentos;lacos;;alta;Teste de primalidade usando laço for obrigatório
+ba77a474c1;fundamentos;lacos;;media;Somar série com do-while mas a fórmula da série foi omitida do enunciado
+ccdcbe0d35;fundamentos;lacos;fundamentos;alta;Desenhar um X com laços aninhados seguindo exemplo de função dada
+4f5e696c28;fundamentos;condicionais;;media;Descartar a maior e a menor de quatro notas via comparações e calcular média
+cdad16e052;fundamentos;condicionais;;media;Ordenar apenas três números usando comparações com if sem exigir algoritmo de ordenação
+ae1b6645a7;fundamentos;lacos;;alta;Função iterativa de MDC com laço do-while explicitamente exigido
+c3f382bab3;fundamentos;entrada_saida;;alta;Ler um inteiro e imprimi-lo na saída padrão
+17776210f6;fundamentos;entrada_saida;;alta;Ler um número e imprimir frase formatada com o valor lido
+698ebff80e;fundamentos;entrada_saida;;media;Leitura de valores e cálculo da lei dos cossenos com saída formatada
+bd74c53ce2;fundamentos;entrada_saida;;alta;Ler um inteiro e imprimir seu triplo
+eda14715e3;fundamentos;entrada_saida;;media;Cálculo de notas com divisão inteira e resto sem estrutura complexa
+8a83bfa4cd;fundamentos;entrada_saida;;media;Ler caractere e imprimir código ASCII usando formatação do printf
+c77e0c6ac1;fundamentos;funcoes;;alta;Exige criar função double celsius para converter temperatura
+2f6e66186e;fundamentos;condicionais;;alta;Verificar com condicionais se três números estão em ordem crescente
+5568c9176b;fundamentos;entrada_saida;;media;Imprimir tamanhos de tipos com sizeof explorando tipos de dados
+8bc211ddb7;fundamentos;entrada_saida;;alta;Calcular volume da esfera e imprimir com duas casas decimais
+f1b51ff3b9;fundamentos;entrada_saida;;alta;Conversão simples de milhas para quilômetros com leitura e impressão
+d9a448cf16;fundamentos;entrada_saida;;media;Ler código inteiro e imprimir caractere ASCII correspondente via formatação
+ec893dd4ab;fundamentos;condicionais;;alta;Verificar com condicionais se algum de três números é positivo
+7850abdace;fundamentos;entrada_saida;;alta;Converter segundos em hh:mm:ss com divisão inteira e resto
+300f0b4e42;fundamentos;funcoes;;alta;Exige criar função double fahrenheit para converter temperatura
+c6a6928a66;fundamentos;ponteiros;;alta;Transposta de matriz com alocação dinâmica e retorno de ponteiro
+d336a68ee0;fundamentos;ponteiros;;alta;Converter matriz em vetor para vetor de ponteiros com alocação dinâmica
+0b41a5f868;fundamentos;ponteiros;;alta;Novo vetor alocado com malloc e tamanho retornado por ponteiro
+a5b1f7def3;fundamentos;vetores_matrizes;;alta;Percorrer vetor numérico e vetor de operadores aplicando operações acumuladas com condicionais
+052f8b3f8d;fundamentos;strings_basico;strings_avancado;media;Converter RNA para DNA e verificar ocorrência de substring na cadeia maior
+bb28748359;fundamentos;ponteiros;;alta;Converter matriz em vetor de ponteiros para vetor linear com alocação dinâmica
+f25b438ce7;fundamentos;ponteiros;;alta;Alocar dinamicamente vetor invertido e retornar ponteiro liberando memória no main
+b2c0622775;fundamentos;ponteiros;;alta;Função retorna ponteiro para vetor soma alocado dinamicamente com malloc
+4e36ebb9c7;fundamentos;ponteiros;;alta;Passagem por referência para simplificar fração usando cálculo do MDC
+bb9fe17a75;fundamentos;ponteiros;;alta;Algoritmo de Euclides alterando variáveis passadas por endereço
+e3300f549c;fundamentos;entrada_saida;;media;Cálculos trigonométricos diretos com funções matemáticas sem estruturas de controle relevantes
+67db915af2;outro;outro;fundamentos;media;Manipulação de bits com operadores bitwise e laço não prevista na taxonomia
+9cac8a78a2;fundamentos;entrada_saida;;alta;Leitura de coordenadas e cálculo direto da distância euclidiana formatada
+4497059bf0;outro;outro;fundamentos;media;Criptografia com XOR e troca de bytes via operadores bitwise fora da taxonomia
+69393eaa5e;fundamentos;condicionais;;alta;Uso explícito de switch case para mapear número ao dia da semana
+a4025ee9c3;fundamentos;lacos;;media;Gerar dígitos aleatórios com laço e comparar palpite calculando percentual de acertos
+311cb7561d;fundamentos;condicionais;;media;Gerar número com srand fixo e comparar palpite com condicional
+7a8b57c3a6;ordenacao;bubble_sort;fundamentos;alta;Enunciado pede explicitamente implementar o Bubble sort sobre vetor de inteiros
+c8851bd79c;fundamentos;structs;;baixa;Enunciado muito curto sugere registros em tabela dinâmica sem detalhes
+0f7d8a4b51;fundamentos;vetores_matrizes;;alta;Multiplicação de duas matrizes 5x5 de tamanho fixo
+27178d161f;fundamentos;vetores_matrizes;;alta;Multiplicação de matriz 5x5 por vetor gerando vetor resultado
+dee98e5e53;fundamentos;lacos;;alta;Laço com sentinela zero calculando quantidade soma média e maior valor
+d8ecb5ff2d;fundamentos;lacos;;media;Laços aninhados para ler blocos e condicionais para classificar aprovação dos módulos
+9b2c0c1800;fundamentos;lacos;;media;Contar bits 1 exige laço com operações bit a bit. Manipulação de bits não existe na taxonomia
+3092412768;fundamentos;condicionais;;alta;Decidir dias do mês com regra de ano bissexto em laço até sentinela
+d62ae28eeb;fundamentos;lacos;;alta;Percorrer notas em laço e interromper com break na primeira nota menor que 3.0
+3c7efc3970;fundamentos;condicionais;;alta;Calcular fórmula e classificar o resultado em faixas usando condicionais
+9f5768eef8;fundamentos;lacos;;media;Laço com máscaras por shift e operador & para gerar a string rwx. Operações bit a bit fora da taxonomia
+ab775243dd;fundamentos;entrada_saida;;alta;Ler o raio e imprimir a área calculada por fórmula simples
+af1147fdf1;fundamentos;entrada_saida;;alta;Converter segundos em horas minutos e segundos com divisão inteira e resto
+5a9cea39db;fundamentos;entrada_saida;;alta;Ler nome preço e quantidade e imprimir o total formatado com duas casas
+138c76d025;fundamentos;entrada_saida;;alta;Ler nome e quatro notas e imprimir a média em mensagem formatada
+a7384e59c8;fundamentos;entrada_saida;;alta;Ler dois reais e imprimir a divisão com duas casas decimais
+3c5d7d38cb;fundamentos;entrada_saida;;alta;Ler nome e ano de nascimento e imprimir a idade em mensagem formatada

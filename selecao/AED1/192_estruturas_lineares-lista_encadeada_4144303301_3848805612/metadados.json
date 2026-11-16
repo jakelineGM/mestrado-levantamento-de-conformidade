@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-192",
+  "disciplina": "AED1",
+  "ordem": 192,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Concatena listas",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "4144303301",
+  "aluno_id": "3848805612",
+  "hash_enunciado": "c48d876725",
+  "caminho_exercicio": "3695124409/3056078694/3706417653/4144303301",
+  "caminho_codigo": "3695124409/3056078694/3706417653/4144303301/3848805612",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

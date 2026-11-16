@@ -1,0 +1,29 @@
+Descartadas:
+Restou: 1
+
+Descartadas: 1
+Restou: 2
+
+Descartadas: 1 3
+Restou: 2
+
+Descartadas: 1 3 2
+Restou: 4
+
+Descartadas: 1 3 5 4
+Restou: 2
+
+Descartadas: 1 3 5 2 6
+Restou: 4
+
+Descartadas: 1 3 5 7 4 2
+Restou: 6
+
+Descartadas: 1 3 5 7 2 6 4
+Restou: 8
+
+Descartadas: 1 3 5 7 9 4 8 6
+Restou: 2
+
+Descartadas: 1 3 5 7 9 2 6 10 8
+Restou: 4

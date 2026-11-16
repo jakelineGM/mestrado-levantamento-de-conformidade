@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-171",
+  "disciplina": "AED2",
+  "ordem": 171,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "recursao",
+  "titulo": "Caminhamento na árvore binária de busca",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "06-Árvores binárias de busca",
+  "exercicio_id": "3082869399",
+  "aluno_id": "2194984622",
+  "hash_enunciado": "f06bf82e7f",
+  "caminho_exercicio": "2421630345/4142729763/907830564/3082869399",
+  "caminho_codigo": "2421630345/4142729763/907830564/3082869399/2194984622",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 10
+}

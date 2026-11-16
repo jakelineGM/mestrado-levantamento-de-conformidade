@@ -1,0 +1,19 @@
+{
+  "uid": "AED-005",
+  "disciplina": "AED",
+  "ordem": 5,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Triplas na lista ligada",
+  "linguagem": "Python",
+  "turma": "2024.02",
+  "avaliacao": "L04 - Listas ligadas",
+  "exercicio_id": "1230880679",
+  "aluno_id": "2029375981",
+  "hash_enunciado": "5c7fa86f13",
+  "caminho_exercicio": "165123477/3985864974/2183763979/1230880679",
+  "caminho_codigo": "165123477/3985864974/2183763979/1230880679/2029375981",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

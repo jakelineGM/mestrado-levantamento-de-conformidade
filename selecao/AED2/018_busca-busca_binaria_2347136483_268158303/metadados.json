@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-018",
+  "disciplina": "AED2",
+  "ordem": 18,
+  "categoria": "busca",
+  "subtema": "busca_binaria",
+  "categoria_secundaria": "",
+  "titulo": "Passos da busca binária",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "04-Ordenação (1)",
+  "exercicio_id": "2347136483",
+  "aluno_id": "268158303",
+  "hash_enunciado": "a8b3ccb768",
+  "caminho_exercicio": "2421630345/4142729763/49713556/2347136483",
+  "caminho_codigo": "2421630345/4142729763/49713556/2347136483/268158303",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

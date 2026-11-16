@@ -1,0 +1,19 @@
+{
+  "uid": "AED-168",
+  "disciplina": "AED",
+  "ordem": 168,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "Merge Sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "1881697617",
+  "aluno_id": "3041996770",
+  "hash_enunciado": "04f8ecc4f6",
+  "caminho_exercicio": "165123477/138519253/220769621/1881697617",
+  "caminho_codigo": "165123477/138519253/220769621/1881697617/3041996770",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 4
+}

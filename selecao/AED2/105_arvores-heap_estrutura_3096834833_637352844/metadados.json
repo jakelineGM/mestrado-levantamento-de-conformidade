@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-105",
+  "disciplina": "AED2",
+  "ordem": 105,
+  "categoria": "arvores",
+  "subtema": "heap_estrutura",
+  "categoria_secundaria": "recursao",
+  "titulo": "Operação max_heapify",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L07 - Ordenação (2)",
+  "exercicio_id": "3096834833",
+  "aluno_id": "637352844",
+  "hash_enunciado": "48ee586caf",
+  "caminho_exercicio": "2421630345/4142729763/1288254652/3096834833",
+  "caminho_codigo": "2421630345/4142729763/1288254652/3096834833/637352844",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 4
+}

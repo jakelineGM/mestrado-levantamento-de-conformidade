@@ -1,0 +1,44 @@
+Arvore 1
+Pre-ordem: 1 
+In-ordem: 1 
+Pos-ordem: 1 
+
+Arvore 2
+Pre-ordem: 1 2 
+In-ordem: 1 2 
+Pos-ordem: 2 1 
+
+Arvore 3
+Pre-ordem: 2 1 
+In-ordem: 1 2 
+Pos-ordem: 1 2 
+
+Arvore 4
+Pre-ordem: 1 2 3 
+In-ordem: 1 2 3 
+Pos-ordem: 3 2 1 
+
+Arvore 5
+Pre-ordem: 1 3 2 
+In-ordem: 1 2 3 
+Pos-ordem: 2 3 1 
+
+Arvore 6
+Pre-ordem: 2 1 3 
+In-ordem: 1 2 3 
+Pos-ordem: 1 3 2 
+
+Arvore 7
+Pre-ordem: 2 1 3 
+In-ordem: 1 2 3 
+Pos-ordem: 1 3 2 
+
+Arvore 8
+Pre-ordem: 3 1 2 
+In-ordem: 1 2 3 
+Pos-ordem: 2 1 3 
+
+Arvore 9
+Pre-ordem: 3 2 1 
+In-ordem: 1 2 3 
+Pos-ordem: 1 2 3

@@ -1,0 +1,19 @@
+{
+  "uid": "AED-084",
+  "disciplina": "AED",
+  "ordem": 84,
+  "categoria": "ordenacao",
+  "subtema": "heap_sort",
+  "categoria_secundaria": "arvores",
+  "titulo": "Implementação do heap sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "2893887528",
+  "aluno_id": "4253924968",
+  "hash_enunciado": "3ef85c9e11",
+  "caminho_exercicio": "165123477/138519253/220769621/2893887528",
+  "caminho_codigo": "165123477/138519253/220769621/2893887528/4253924968",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 4
+}

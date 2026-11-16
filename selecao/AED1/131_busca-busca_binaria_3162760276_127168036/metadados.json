@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-131",
+  "disciplina": "AED1",
+  "ordem": 131,
+  "categoria": "busca",
+  "subtema": "busca_binaria",
+  "categoria_secundaria": "",
+  "titulo": "Única Ocorrência",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lista extra (ordenação e busca)",
+  "exercicio_id": "3162760276",
+  "aluno_id": "127168036",
+  "hash_enunciado": "e98566dd58",
+  "caminho_exercicio": "3695124409/428269319/331502226/3162760276",
+  "caminho_codigo": "3695124409/428269319/331502226/3162760276/127168036",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

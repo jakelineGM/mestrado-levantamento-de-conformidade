@@ -1,0 +1,19 @@
+{
+  "uid": "AED-046",
+  "disciplina": "AED",
+  "ordem": 46,
+  "categoria": "arvores",
+  "subtema": "avl",
+  "categoria_secundaria": "",
+  "titulo": "Árvore AVL 2: rotação LL",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Árvores binárias de busca",
+  "exercicio_id": "2359874159",
+  "aluno_id": "3025057613",
+  "hash_enunciado": "83ef048e2c",
+  "caminho_exercicio": "165123477/138519253/1330463191/2359874159",
+  "caminho_codigo": "165123477/138519253/1330463191/2359874159/3025057613",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

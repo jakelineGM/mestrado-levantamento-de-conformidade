@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-035",
+  "disciplina": "AED2",
+  "ordem": 35,
+  "categoria": "estruturas_lineares",
+  "subtema": "pilha",
+  "categoria_secundaria": "",
+  "titulo": "push, push, pop",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "02-Pilhas e filas",
+  "exercicio_id": "876435331",
+  "aluno_id": "1600721893",
+  "hash_enunciado": "29ffb8eedc",
+  "caminho_exercicio": "2421630345/4142729763/2446955935/876435331",
+  "caminho_codigo": "2421630345/4142729763/2446955935/876435331/1600721893",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 7
+}

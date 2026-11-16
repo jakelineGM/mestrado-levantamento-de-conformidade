@@ -1,0 +1,3 @@
+Chave 7 tem antecessor 6 e sucessor 8
+Chave 3 tem antecessor 2 e sucessor 5
+Chave 9 tem antecessor 8 e sucessor 10

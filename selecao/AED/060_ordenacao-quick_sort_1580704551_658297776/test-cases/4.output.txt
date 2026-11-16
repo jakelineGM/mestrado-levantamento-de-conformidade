@@ -1,0 +1,7 @@
+Desempate_por_nomes
+1 - Campeao: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)
+2 - O_vice: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)
+3 - Posicao4: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)
+4 - posicao5: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)
+5 - Posicao6: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)
+6 - Ultimo: 3 pontos, 2 jogos (1-0-1), d.g. 0 (3-3)

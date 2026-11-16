@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-116",
+  "disciplina": "AED2",
+  "ordem": 116,
+  "categoria": "ordenacao",
+  "subtema": "bucket_sort",
+  "categoria_secundaria": "",
+  "titulo": "Bucket Sort",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L09 - Ordenação linear",
+  "exercicio_id": "3940146563",
+  "aluno_id": "1191696067",
+  "hash_enunciado": "13b8e00616",
+  "caminho_exercicio": "2421630345/4142729763/859591362/3940146563",
+  "caminho_codigo": "2421630345/4142729763/859591362/3940146563/1191696067",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 7
+}

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-133",
+  "disciplina": "AED1",
+  "ordem": 133,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "MergeSort",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "4215888172",
+  "aluno_id": "2812327257",
+  "hash_enunciado": "47d56a46bd",
+  "caminho_exercicio": "3695124409/2351927306/2807995981/4215888172",
+  "caminho_codigo": "3695124409/2351927306/2807995981/4215888172/2812327257",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

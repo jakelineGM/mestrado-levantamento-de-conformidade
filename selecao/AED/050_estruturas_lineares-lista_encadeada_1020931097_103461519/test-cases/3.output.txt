@@ -1,0 +1,3 @@
+65 us: hello-world finalizou
+135 us: calc-fibonacci finalizou
+135 us: shutdown

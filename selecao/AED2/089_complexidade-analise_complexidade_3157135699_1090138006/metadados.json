@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-089",
+  "disciplina": "AED2",
+  "ordem": 89,
+  "categoria": "complexidade",
+  "subtema": "analise_complexidade",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Bubble ou Insertion Sort?",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "05-Complexidade",
+  "exercicio_id": "3157135699",
+  "aluno_id": "1090138006",
+  "hash_enunciado": "8bd839f3dc",
+  "caminho_exercicio": "2421630345/4142729763/2186477831/3157135699",
+  "caminho_codigo": "2421630345/4142729763/2186477831/3157135699/1090138006",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

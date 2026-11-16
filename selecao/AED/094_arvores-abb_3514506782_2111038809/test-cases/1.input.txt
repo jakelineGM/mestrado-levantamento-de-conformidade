@@ -1,0 +1,9 @@
+{'valor': 1, 'esq': None, 'dir': None}
+[1, 2]
+{'valor': 1, 'esq': None, 'dir': {'valor': 2, 'esq': None, 'dir': None}}
+[1, 2, 3]
+{'valor': 5, 'esq': {'valor': 2, 'esq': None, 'dir': None}, 'dir': None}
+[5, 4, 3, 2, 1]
+{'valor': 3, 'esq': {'valor': 1, 'esq': None, 'dir': None}, 'dir': {'valor': 6, 'esq': None, 'dir': None}}
+[6, 5, 4, 3, 2, 1]
+{}

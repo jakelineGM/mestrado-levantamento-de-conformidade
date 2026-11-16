@@ -1,0 +1,11 @@
+3 us: prog1 finalizou
+6 us: prog2 finalizou
+11 us: prog3 finalizou
+41 us: prog4 finalizou
+131 us: prog5 finalizou
+211 us: prog6 finalizou
+231 us: prog7 finalizou
+321 us: prog8 finalizou
+341 us: prog9 finalizou
+346 us: prog10 finalizou
+346 us: shutdown

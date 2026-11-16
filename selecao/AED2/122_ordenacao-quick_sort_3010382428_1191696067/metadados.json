@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-122",
+  "disciplina": "AED2",
+  "ordem": 122,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "",
+  "titulo": "Particionamento de Hoare (para QuickSort)",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L07 - Ordenação (2)",
+  "exercicio_id": "3010382428",
+  "aluno_id": "1191696067",
+  "hash_enunciado": "a550b747c8",
+  "caminho_exercicio": "2421630345/4142729763/1288254652/3010382428",
+  "caminho_codigo": "2421630345/4142729763/1288254652/3010382428/1191696067",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 4
+}

@@ -1,0 +1,22 @@
+rambutan > buriti?
+rambutan > inga?
+rambutan > laranja?
+rambutan > abacaxi?
+rambutan > morango?
+rambutan > bacon?
+buriti > inga?
+inga > laranja?
+laranja > abacaxi?
+laranja > morango?
+morango > bacon?
+buriti > inga?
+inga > abacaxi?
+inga > laranja?
+laranja > bacon?
+buriti > abacaxi?
+buriti > inga?
+inga > bacon?
+abacaxi > buriti?
+buriti > bacon?
+abacaxi > bacon?
+['abacaxi', 'bacon', 'buriti', 'inga', 'laranja', 'morango', 'rambutan']

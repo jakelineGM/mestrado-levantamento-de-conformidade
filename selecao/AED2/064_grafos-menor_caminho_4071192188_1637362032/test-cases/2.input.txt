@@ -1,0 +1,13 @@
+Alcyone Betelgeuse Capella Deneb Formahaut Kronos .
+Alcyone Betelgeuse 0.35
+Alcyone Capella 0.1
+Alcyone Deneb 0.3
+Betelgeuse Capella 0.3
+Capella Deneb 0.3
+Capella Formahaut 0.15
+Deneb Formahaut 0.15
+Deneb Kronos 0.2
+Formahaut Kronos 0.2
+Kronos Alcyone 0.1
+Kronos Betelgeuse 0.15
+. . 0

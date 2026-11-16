@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-064",
+  "disciplina": "AED1",
+  "ordem": 64,
+  "categoria": "recursao",
+  "subtema": "recursao_multipla",
+  "categoria_secundaria": "",
+  "titulo": "Triangulo de Pascal Recursivo",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "L10 (recursão)",
+  "exercicio_id": "3708239025",
+  "aluno_id": "3005160853",
+  "hash_enunciado": "db77adcd79",
+  "caminho_exercicio": "3695124409/2928723469/155205433/3708239025",
+  "caminho_codigo": "3695124409/2928723469/155205433/3708239025/3005160853",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

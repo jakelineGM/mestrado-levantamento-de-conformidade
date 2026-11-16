@@ -1,0 +1,14 @@
+Arvore 1
+Pre-ordem: 5 3 2 8 
+In-ordem: 2 3 5 8 
+Pos-ordem: 2 3 8 5 
+
+Arvore 2
+Pre-ordem: 8 5 3 2 
+In-ordem: 2 3 5 8 
+Pos-ordem: 2 3 5 8 
+
+Arvore 3
+Pre-ordem: 2 3 5 8 
+In-ordem: 2 3 5 8 
+Pos-ordem: 8 5 3 2

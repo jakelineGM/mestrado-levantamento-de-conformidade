@@ -1,0 +1,2 @@
+{'valor': 42, 'esq': {'valor': 12, 'esq': {'valor': 2, 'esq': None, 'dir': {'valor': 6, 'esq': None, 'dir': None}}, 'dir': {'valor': 30, 'esq': {'valor': 20, 'esq': None, 'dir': None}, 'dir': None}}, 'dir': None}
+[42, 12, 2, 30, 6, 20, 45, 1, 5, 10, 15, 25, 33, 57]

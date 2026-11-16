@@ -1,0 +1,6 @@
+Arvore inicial: 7 6 3 2 5 9 8 10 
+Depois de remover 6: 7 3 2 5 9 8 10 
+Depois de remover 8: 7 3 2 5 9 10 
+Depois de remover 9: 7 3 2 5 10 
+Depois de remover 10: 7 3 2 5 
+Depois de remover 7: 3 2 5

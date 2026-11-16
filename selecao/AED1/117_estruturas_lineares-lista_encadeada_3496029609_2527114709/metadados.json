@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-117",
+  "disciplina": "AED1",
+  "ordem": 117,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Remove Posição K",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "3496029609",
+  "aluno_id": "2527114709",
+  "hash_enunciado": "b74d18c3b9",
+  "caminho_exercicio": "3695124409/4294284954/1834041492/3496029609",
+  "caminho_codigo": "3695124409/4294284954/1834041492/3496029609/2527114709",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

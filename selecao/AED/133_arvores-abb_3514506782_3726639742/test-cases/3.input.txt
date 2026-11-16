@@ -1,0 +1,21 @@
+{'valor':20,'esq':None,'dir':None}
+[10, 20, 30]
+{'valor':10,'esq':None,'dir':{'valor':20,'esq':None,'dir':{'valor':30,'esq':None,'dir':None}}}
+[5, 10, 20, 25, 30, 35]
+{'valor':10,'esq':None,'dir':{'valor':20,'esq':None,'dir':None}}
+[5, 10, 15, 20, 25]
+{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':None}
+[5, 10, 15, 20, 25]
+{'valor':10,'esq':None,'dir':{'valor':20,'esq':None,'dir':{'valor':30,'esq':None,'dir':None}}}
+[5, 10, 20, 25, 30, 35]
+{'valor':10,'esq':None,'dir':{'valor':30,'esq':{'valor':20,'esq':None,'dir':None},'dir':None}}
+[5, 10, 20, 25, 30, 35]
+{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}}
+[5, 10, 20, 25, 30, 35]
+{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':{'valor':30,'esq':None,'dir':None}}
+[5, 10, 20, 25, 30, 35]
+{'valor':30,'esq':{'valor':10,'esq':None,'dir':{'valor':20,'esq':None,'dir':None}},'dir':None}
+[5, 10, 20, 25, 30, 35]
+{'valor':30,'esq':{'valor':20,'esq':{'valor':10,'esq':None,'dir':None},'dir':None},'dir':None}
+[5, 10, 20, 25, 30, 35]
+{}

@@ -1,0 +1,13 @@
+{'valor': 4, 'esq': {'valor': 2, 'esq': None, 'dir': {'valor': 3, 'esq': None, 'dir': None}}, 'dir': None}
+[1, 2, 3, 4]
+{'valor': 7, 'esq': {'valor': 5, 'esq': {'valor': 3, 'esq': None, 'dir': None}, 'dir': None}, 'dir': None}
+[2, 3, 5, 7, 11]
+{'valor': 1, 'esq': None, 'dir': {'valor': 4, 'esq': {'valor': 3, 'esq': None, 'dir': None}, 'dir': None}}
+[1, 2, 3, 4, 5]
+{'valor': 1, 'esq': None, 'dir': {'valor': 2, 'esq': None, 'dir': {'valor': 3, 'esq': None, 'dir': None}}}
+[1, 2, 3]
+{'valor': 8, 'esq': {'valor': 5, 'esq': {'valor': 3, 'esq': {'valor': 2, 'esq': None, 'dir': None}, 'dir': None}, 'dir': None}, 'dir': None}
+[2, 3, 4, 5, 8, 10]
+{'valor': 2, 'esq': None, 'dir': {'valor': 3, 'esq': None, 'dir': {'valor': 5, 'esq': None, 'dir': {'valor': 8, 'esq': None, 'dir': None}}}}
+[2, 3, 4, 5, 6, 7, 8]
+{}

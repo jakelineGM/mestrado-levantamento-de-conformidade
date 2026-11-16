@@ -1,0 +1,58 @@
+Chave 50 encontrada
+Chave 40 encontrada
+Chave 45 nao encontrada
+Chave 20 encontrada
+Chave 10 encontrada
+Chave 25 nao encontrada
+Chave 60 encontrada
+Chave 55 nao encontrada
+Chave 70 encontrada
+Chave 65 nao encontrada
+Chave 80 nao encontrada
+Encontrei 6 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 15 nao encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Chave 40 encontrada
+Chave 45 nao encontrada
+Chave 50 encontrada
+Chave 55 nao encontrada
+Chave 60 encontrada
+Chave 65 nao encontrada
+Chave 70 encontrada
+Chave 75 nao encontrada
+Chave 80 encontrada
+Chave 85 nao encontrada
+Chave 90 encontrada
+Chave 95 nao encontrada
+Chave 100 encontrada
+Chave 105 nao encontrada
+Encontrei 10 chaves
+
+Chave 5 nao encontrada
+Chave 10 encontrada
+Chave 15 nao encontrada
+Chave 20 encontrada
+Chave 25 nao encontrada
+Chave 30 encontrada
+Chave 35 nao encontrada
+Chave 40 encontrada
+Chave 45 nao encontrada
+Chave 50 encontrada
+Chave 55 nao encontrada
+Chave 60 encontrada
+Chave 65 nao encontrada
+Chave 70 encontrada
+Chave 75 nao encontrada
+Chave 80 encontrada
+Chave 85 nao encontrada
+Chave 90 encontrada
+Chave 95 nao encontrada
+Chave 100 encontrada
+Chave 105 nao encontrada
+Encontrei 10 chaves

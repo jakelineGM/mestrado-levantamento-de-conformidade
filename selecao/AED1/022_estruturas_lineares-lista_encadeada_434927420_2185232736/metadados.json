@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-022",
+  "disciplina": "AED1",
+  "ordem": 22,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "recursao",
+  "titulo": "Mostra Lista ao Contrário",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "434927420",
+  "aluno_id": "2185232736",
+  "hash_enunciado": "364381bc20",
+  "caminho_exercicio": "3695124409/2351927306/2807995981/434927420",
+  "caminho_codigo": "3695124409/2351927306/2807995981/434927420/2185232736",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

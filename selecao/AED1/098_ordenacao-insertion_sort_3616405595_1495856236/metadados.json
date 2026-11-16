@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-098",
+  "disciplina": "AED1",
+  "ordem": 98,
+  "categoria": "ordenacao",
+  "subtema": "insertion_sort",
+  "categoria_secundaria": "",
+  "titulo": "Passos do Insertion Sort (E/S para C)",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L11 - Listas",
+  "exercicio_id": "3616405595",
+  "aluno_id": "1495856236",
+  "hash_enunciado": "40c7084902",
+  "caminho_exercicio": "3695124409/1382013434/94682846/3616405595",
+  "caminho_codigo": "3695124409/1382013434/94682846/3616405595/1495856236",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 7
+}

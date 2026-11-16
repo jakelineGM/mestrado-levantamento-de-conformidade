@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-196",
+  "disciplina": "AED2",
+  "ordem": 196,
+  "categoria": "ordenacao",
+  "subtema": "heap_sort",
+  "categoria_secundaria": "arvores",
+  "titulo": "Ordenação Heap Sort",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L07 - Ordenação (2)",
+  "exercicio_id": "1607836439",
+  "aluno_id": "2010393104",
+  "hash_enunciado": "3ef85c9e11",
+  "caminho_exercicio": "2421630345/4142729763/1288254652/1607836439",
+  "caminho_codigo": "2421630345/4142729763/1288254652/1607836439/2010393104",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-012",
+  "disciplina": "AED1",
+  "ordem": 12,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Tamanho da Lista",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "1771117212",
+  "aluno_id": "488259947",
+  "hash_enunciado": "7ed03ccf8d",
+  "caminho_exercicio": "3695124409/428269319/915622173/1771117212",
+  "caminho_codigo": "3695124409/428269319/915622173/1771117212/488259947",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

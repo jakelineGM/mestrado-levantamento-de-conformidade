@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-046",
+  "disciplina": "AED2",
+  "ordem": 46,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "",
+  "titulo": "Remoção em árvore binária de busca (grau 0 ou 1)",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L05 - Árvores binárias de busca (2)",
+  "exercicio_id": "3092544506",
+  "aluno_id": "1186001637",
+  "hash_enunciado": "9bd7317417",
+  "caminho_exercicio": "2421630345/749206632/877980308/3092544506",
+  "caminho_codigo": "2421630345/749206632/877980308/3092544506/1186001637",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

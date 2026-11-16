@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-097",
+  "disciplina": "AED1",
+  "ordem": 97,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Último da lista",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "1920047079",
+  "aluno_id": "2704972459",
+  "hash_enunciado": "5fa2b674a7",
+  "caminho_exercicio": "3695124409/3056078694/3706417653/1920047079",
+  "caminho_codigo": "3695124409/3056078694/3706417653/1920047079/2704972459",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

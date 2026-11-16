@@ -1,0 +1,19 @@
+{
+  "uid": "AED-022",
+  "disciplina": "AED",
+  "ordem": 22,
+  "categoria": "arvores",
+  "subtema": "heap_estrutura",
+  "categoria_secundaria": "recursao",
+  "titulo": "Implementação do heapify",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "219045237",
+  "aluno_id": "3672390287",
+  "hash_enunciado": "3398233a14",
+  "caminho_exercicio": "165123477/138519253/220769621/219045237",
+  "caminho_codigo": "165123477/138519253/220769621/219045237/3672390287",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 3
+}

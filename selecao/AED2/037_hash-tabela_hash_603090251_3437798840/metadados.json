@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-037",
+  "disciplina": "AED2",
+  "ordem": 37,
+  "categoria": "hash",
+  "subtema": "tabela_hash",
+  "categoria_secundaria": "",
+  "titulo": "Uma hash simples",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L10 - Tabelas de Espalhamento",
+  "exercicio_id": "603090251",
+  "aluno_id": "3437798840",
+  "hash_enunciado": "d95c3567cd",
+  "caminho_exercicio": "2421630345/4142729763/2605006027/603090251",
+  "caminho_codigo": "2421630345/4142729763/2605006027/603090251/3437798840",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 1
+}

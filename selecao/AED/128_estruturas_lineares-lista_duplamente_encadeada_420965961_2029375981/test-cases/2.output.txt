@@ -1,0 +1,8 @@
+Descartadas: 1
+Restou: 2
+
+Descartadas: 1 3
+Restou: 2
+
+Descartadas: 1 3 5 7 4 2
+Restou: 6

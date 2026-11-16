@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-083",
+  "disciplina": "AED1",
+  "ordem": 83,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "ordenacao",
+  "titulo": "Quick e Insertion",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "3326558473",
+  "aluno_id": "4087021890",
+  "hash_enunciado": "a28b470f24",
+  "caminho_exercicio": "3695124409/4294284954/1834041492/3326558473",
+  "caminho_codigo": "3695124409/4294284954/1834041492/3326558473/4087021890",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

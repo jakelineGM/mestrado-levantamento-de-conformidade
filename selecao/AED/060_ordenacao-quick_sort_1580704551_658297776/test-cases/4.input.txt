@@ -1,0 +1,17 @@
+1
+-
+Desempate_por_nomes
+6
+Ultimo
+Posicao6
+posicao5
+Posicao4
+O_vice
+Campeao
+6
+Ultimo:1#Posicao6:2
+Ultimo:2#Posicao6:1
+posicao5:2#Posicao4:1
+posicao5:1#Posicao4:2
+O_vice:1#Campeao:2
+O_vice:2#Campeao:1

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-164",
+  "disciplina": "AED1",
+  "ordem": 164,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Paridade extremamente ineficiente",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Recursão",
+  "exercicio_id": "3419146960",
+  "aluno_id": "1634813275",
+  "hash_enunciado": "e93e0f1db2",
+  "caminho_exercicio": "3695124409/1382013434/3318628836/3419146960",
+  "caminho_codigo": "3695124409/1382013434/3318628836/3419146960/1634813275",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

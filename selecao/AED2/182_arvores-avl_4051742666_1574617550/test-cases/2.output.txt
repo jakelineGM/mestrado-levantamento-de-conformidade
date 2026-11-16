@@ -1,0 +1,11 @@
+Arvore 1
+pre: 2 1 3
+pos: 1 3 2
+
+Arvore 2
+pre: 3 2 1
+pos: 1 2 3
+
+Arvore 3
+pre: 4 3 2 1 5
+pos: 1 2 3 5 4

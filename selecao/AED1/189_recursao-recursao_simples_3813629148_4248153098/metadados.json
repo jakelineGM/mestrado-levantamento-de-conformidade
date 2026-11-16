@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-189",
+  "disciplina": "AED1",
+  "ordem": 189,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "ANDANDO NA MATRIZ RECURSIVAMENTE",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lab 9 (recursão)",
+  "exercicio_id": "3813629148",
+  "aluno_id": "4248153098",
+  "hash_enunciado": "442c0398ab",
+  "caminho_exercicio": "3695124409/428269319/422938341/3813629148",
+  "caminho_codigo": "3695124409/428269319/422938341/3813629148/4248153098",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

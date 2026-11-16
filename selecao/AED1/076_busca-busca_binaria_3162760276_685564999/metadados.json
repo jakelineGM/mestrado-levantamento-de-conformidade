@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-076",
+  "disciplina": "AED1",
+  "ordem": 76,
+  "categoria": "busca",
+  "subtema": "busca_binaria",
+  "categoria_secundaria": "",
+  "titulo": "Única Ocorrência",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Vetor e String",
+  "exercicio_id": "3162760276",
+  "aluno_id": "685564999",
+  "hash_enunciado": "e98566dd58",
+  "caminho_exercicio": "3695124409/4294284954/1572751599/3162760276",
+  "caminho_codigo": "3695124409/4294284954/1572751599/3162760276/685564999",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

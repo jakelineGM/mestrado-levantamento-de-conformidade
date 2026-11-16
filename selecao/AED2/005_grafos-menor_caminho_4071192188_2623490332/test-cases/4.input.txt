@@ -1,0 +1,11 @@
+Kronos Terra Vulcan Cardassia Romulus Bajor Omarion-Nebula Betezed Risa Ferenginar .
+Kronos Terra 0.25
+Terra Vulcan 0.5
+Vulcan Kronos -0.75
+Vulcan Cardassia 0
+Vulcan Romulus -3.14
+Cardassia Bajor 0.75
+Romulus Bajor -4.2
+Bajor Cardassia -0.25
+Bajor Omarion-Nebula 0
+. . 0

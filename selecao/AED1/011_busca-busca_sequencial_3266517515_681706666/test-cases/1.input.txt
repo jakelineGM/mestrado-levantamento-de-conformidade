@@ -1,0 +1,9 @@
+3
+SOMAR
+AMENO
+REAIS
+4
+somar
+aveia
+Reais
+Dolar

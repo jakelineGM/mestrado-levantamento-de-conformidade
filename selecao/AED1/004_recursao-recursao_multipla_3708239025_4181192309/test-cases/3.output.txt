@@ -1,0 +1,4 @@
+Triangulo de Pascal com 3 linhas:
+  1 
+ 1 1 
+1 2 1

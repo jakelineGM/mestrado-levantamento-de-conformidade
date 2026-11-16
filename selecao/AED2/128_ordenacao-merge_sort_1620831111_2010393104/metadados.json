@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-128",
+  "disciplina": "AED2",
+  "ordem": 128,
+  "categoria": "ordenacao",
+  "subtema": "merge_sort",
+  "categoria_secundaria": "",
+  "titulo": "Mesclagem de vetores (E/S Python)",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L07 - Ordenação (2)",
+  "exercicio_id": "1620831111",
+  "aluno_id": "2010393104",
+  "hash_enunciado": "8358e006ca",
+  "caminho_exercicio": "2421630345/4142729763/1288254652/1620831111",
+  "caminho_codigo": "2421630345/4142729763/1288254652/1620831111/2010393104",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 10
+}

@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-127",
+  "disciplina": "AED1",
+  "ordem": 127,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Removendo Maior Elemento de uma Lista Encadeada",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada 2.0",
+  "exercicio_id": "1336967633",
+  "aluno_id": "1953953044",
+  "hash_enunciado": "9a761a565a",
+  "caminho_exercicio": "3695124409/2351927306/434523756/1336967633",
+  "caminho_codigo": "3695124409/2351927306/434523756/1336967633/1953953044",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

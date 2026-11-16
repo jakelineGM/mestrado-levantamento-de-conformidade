@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-114",
+  "disciplina": "AED1",
+  "ordem": 114,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Multifatorial",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Exercícios da aula de 12/set",
+  "exercicio_id": "883198448",
+  "aluno_id": "835913056",
+  "hash_enunciado": "16327b9d26",
+  "caminho_exercicio": "3695124409/1382013434/2609278500/883198448",
+  "caminho_codigo": "3695124409/1382013434/2609278500/883198448/835913056",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 4
+}

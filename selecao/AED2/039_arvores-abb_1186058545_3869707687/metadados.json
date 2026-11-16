@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-039",
+  "disciplina": "AED2",
+  "ordem": 39,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "recursao",
+  "titulo": "Inserção na árvore binária de busca",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L04 - Árvores binárias de busca",
+  "exercicio_id": "1186058545",
+  "aluno_id": "3869707687",
+  "hash_enunciado": "475b8cbec0",
+  "caminho_exercicio": "2421630345/749206632/460689845/1186058545",
+  "caminho_codigo": "2421630345/749206632/460689845/1186058545/3869707687",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

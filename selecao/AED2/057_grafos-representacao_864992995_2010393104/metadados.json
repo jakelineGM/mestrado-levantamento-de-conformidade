@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-057",
+  "disciplina": "AED2",
+  "ordem": 57,
+  "categoria": "grafos",
+  "subtema": "representacao",
+  "categoria_secundaria": "",
+  "titulo": "Manipulação do grafo",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L11 - Grafos",
+  "exercicio_id": "864992995",
+  "aluno_id": "2010393104",
+  "hash_enunciado": "5d731d359c",
+  "caminho_exercicio": "2421630345/4142729763/3872798806/864992995",
+  "caminho_codigo": "2421630345/4142729763/3872798806/864992995/2010393104",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

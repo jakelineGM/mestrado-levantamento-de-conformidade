@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-177",
+  "disciplina": "AED1",
+  "ordem": 177,
+  "categoria": "estruturas_lineares",
+  "subtema": "pilha",
+  "categoria_secundaria": "estruturas_lineares",
+  "titulo": "Funções da Pilha",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "2025991350",
+  "aluno_id": "4200061691",
+  "hash_enunciado": "52245c52a9",
+  "caminho_exercicio": "3695124409/2351927306/2807995981/2025991350",
+  "caminho_codigo": "3695124409/2351927306/2807995981/2025991350/4200061691",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 1
+}

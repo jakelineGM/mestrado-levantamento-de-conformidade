@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-132",
+  "disciplina": "AED2",
+  "ordem": 132,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Remoção da lista encadeada (2)",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "01-Listas encadeadas (nível 1)",
+  "exercicio_id": "3361709971",
+  "aluno_id": "3699977669",
+  "hash_enunciado": "6ea9b2aa44",
+  "caminho_exercicio": "2421630345/4142729763/3943477999/3361709971",
+  "caminho_codigo": "2421630345/4142729763/3943477999/3361709971/3699977669",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 6
+}

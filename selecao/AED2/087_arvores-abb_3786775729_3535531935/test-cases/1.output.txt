@@ -1,0 +1,30 @@
+Chave 15 nao encontrada
+Chave 16 encontrada
+Chave 7 nao encontrada
+Chave 8 encontrada
+Chave 3 nao encontrada
+Chave 4 encontrada
+Chave 11 nao encontrada
+Chave 12 encontrada
+Chave 1 nao encontrada
+Chave 2 encontrada
+Chave 5 nao encontrada
+Chave 6 encontrada
+Chave 9 nao encontrada
+Chave 10 encontrada
+Chave 13 nao encontrada
+Chave 14 encontrada
+Chave 23 nao encontrada
+Chave 24 encontrada
+Chave 19 nao encontrada
+Chave 20 encontrada
+Chave 17 nao encontrada
+Chave 18 encontrada
+Chave 21 nao encontrada
+Chave 22 encontrada
+Chave 27 nao encontrada
+Chave 28 encontrada
+Chave 25 nao encontrada
+Chave 26 encontrada
+Chave 29 nao encontrada
+Chave 30 encontrada

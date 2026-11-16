@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-129",
+  "disciplina": "AED2",
+  "ordem": 129,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "",
+  "titulo": "Remoção em árvore binária de busca (substit. pelo sucessor)",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L05 - Árvores binárias de busca (2)",
+  "exercicio_id": "79648132",
+  "aluno_id": "2704972459",
+  "hash_enunciado": "f9dc2ff24a",
+  "caminho_exercicio": "2421630345/749206632/877980308/79648132",
+  "caminho_codigo": "2421630345/749206632/877980308/79648132/2704972459",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 9
+}

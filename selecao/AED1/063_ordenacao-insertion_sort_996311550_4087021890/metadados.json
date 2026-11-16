@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-063",
+  "disciplina": "AED1",
+  "ordem": 63,
+  "categoria": "ordenacao",
+  "subtema": "insertion_sort",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Insertion Sort Decrescente",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "Vetor e String",
+  "exercicio_id": "996311550",
+  "aluno_id": "4087021890",
+  "hash_enunciado": "a20c3aabca",
+  "caminho_exercicio": "3695124409/4294284954/1572751599/996311550",
+  "caminho_codigo": "3695124409/4294284954/1572751599/996311550/4087021890",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

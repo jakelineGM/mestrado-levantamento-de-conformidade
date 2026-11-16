@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-153",
+  "disciplina": "AED2",
+  "ordem": 153,
+  "categoria": "complexidade",
+  "subtema": "analise_complexidade",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "Bubble ou Merge Sort?",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "05-Complexidade",
+  "exercicio_id": "2238342049",
+  "aluno_id": "1574617550",
+  "hash_enunciado": "3c74fd5409",
+  "caminho_exercicio": "2421630345/4142729763/2186477831/2238342049",
+  "caminho_codigo": "2421630345/4142729763/2186477831/2238342049/1574617550",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

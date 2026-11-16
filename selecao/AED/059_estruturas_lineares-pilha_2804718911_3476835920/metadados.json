@@ -1,0 +1,19 @@
+{
+  "uid": "AED-059",
+  "disciplina": "AED",
+  "ordem": 59,
+  "categoria": "estruturas_lineares",
+  "subtema": "pilha",
+  "categoria_secundaria": "",
+  "titulo": "push, push, pop (Python)",
+  "linguagem": "Python",
+  "turma": "2024.02",
+  "avaliacao": "L04 - Listas ligadas",
+  "exercicio_id": "2804718911",
+  "aluno_id": "3476835920",
+  "hash_enunciado": "2b6a552bcd",
+  "caminho_exercicio": "165123477/3985864974/2183763979/2804718911",
+  "caminho_codigo": "165123477/3985864974/2183763979/2804718911/3476835920",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 7
+}

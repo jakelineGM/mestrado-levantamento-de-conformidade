@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-024",
+  "disciplina": "AED1",
+  "ordem": 24,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Raiz quadrada recursiva",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Recursão",
+  "exercicio_id": "1228132510",
+  "aluno_id": "4181192309",
+  "hash_enunciado": "67c63c08ea",
+  "caminho_exercicio": "3695124409/1382013434/3318628836/1228132510",
+  "caminho_codigo": "3695124409/1382013434/3318628836/1228132510/4181192309",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

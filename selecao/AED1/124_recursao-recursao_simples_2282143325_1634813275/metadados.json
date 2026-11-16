@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-124",
+  "disciplina": "AED1",
+  "ordem": 124,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "Recorrência de Collatz recursiva (3n + 1)",
+  "linguagem": "C",
+  "turma": "2025.02",
+  "avaliacao": "L05 - Recursão",
+  "exercicio_id": "2282143325",
+  "aluno_id": "1634813275",
+  "hash_enunciado": "59a3ba05cc",
+  "caminho_exercicio": "3695124409/1382013434/3318628836/2282143325",
+  "caminho_codigo": "3695124409/1382013434/3318628836/2282143325/1634813275",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 10
+}

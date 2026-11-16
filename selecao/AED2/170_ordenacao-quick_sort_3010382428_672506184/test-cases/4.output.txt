@@ -1,0 +1,19 @@
+Caso 1
+esq: a b c
+dir: d e
+
+Caso 2
+esq: a b c d
+dir: e f g
+
+Caso 3
+esq: a b c
+dir: d e f g
+
+Caso 4
+esq: a b c d e f g h
+dir: x
+
+Caso 5
+esq: a b c d e f g
+dir: x y z

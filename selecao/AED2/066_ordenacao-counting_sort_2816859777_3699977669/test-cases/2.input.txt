@@ -1,0 +1,1 @@
+[["Colabeno", 7.2], ["Avelino", 9], ["Vetorea", 10], ["Labiana", 8.8], ["Ripmaximus", 9], ["Codibentinho", 7.2], ["Radixsortson", 8.8], ["Ripminimus", 9]]

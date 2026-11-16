@@ -1,0 +1,47 @@
+Caso 1
+esq: segundo
+dir: primeiro
+
+Caso 2
+esq: def abc
+dir: ghi
+
+Caso 3
+esq: delta echo bravo alfa foxtrot charlie
+dir: golf hotel
+
+Caso 4
+esq: 0.3 0.1 0.2
+dir: 0.6 0.4 0.9 0.7 0.8 0.5
+
+Caso 5
+esq: True
+dir: True True False False
+
+Caso 6
+esq: str 0 True
+dir: (1, 2, 3) False
+
+Caso 7
+esq: 3.14 2
+dir: 1.0 4 5
+
+Caso 8
+esq: a b c
+dir: d e
+
+Caso 9
+esq: a b c d
+dir: e f g
+
+Caso 10
+esq: a b c
+dir: d e f g
+
+Caso 11
+esq: a b c d e f g h
+dir: x
+
+Caso 12
+esq: a b c d e f g
+dir: x y z

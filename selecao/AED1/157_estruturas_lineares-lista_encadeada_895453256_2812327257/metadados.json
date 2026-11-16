@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-157",
+  "disciplina": "AED1",
+  "ordem": 157,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Somando Valores da Lista",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "895453256",
+  "aluno_id": "2812327257",
+  "hash_enunciado": "7ecdd61c8a",
+  "caminho_exercicio": "3695124409/2351927306/2807995981/895453256",
+  "caminho_codigo": "3695124409/2351927306/2807995981/895453256/2812327257",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

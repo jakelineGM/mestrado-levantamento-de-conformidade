@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-060",
+  "disciplina": "AED2",
+  "ordem": 60,
+  "categoria": "arvores",
+  "subtema": "avl",
+  "categoria_secundaria": "",
+  "titulo": "Árvore AVL 3: rotações simples",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L08 - Árvores AVL",
+  "exercicio_id": "1184933031",
+  "aluno_id": "1247850170",
+  "hash_enunciado": "a4bbcae855",
+  "caminho_exercicio": "2421630345/749206632/2809783974/1184933031",
+  "caminho_codigo": "2421630345/749206632/2809783974/1184933031/1247850170",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

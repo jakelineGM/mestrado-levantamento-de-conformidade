@@ -1,0 +1,19 @@
+{
+  "uid": "AED-024",
+  "disciplina": "AED",
+  "ordem": 24,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "fundamentos",
+  "titulo": "O QuickSort do brasileira (E/S para Python)",
+  "linguagem": "Python",
+  "turma": "2024.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "1580704551",
+  "aluno_id": "611698550",
+  "hash_enunciado": "7994cc8348",
+  "caminho_exercicio": "165123477/3985864974/2872147335/1580704551",
+  "caminho_codigo": "165123477/3985864974/2872147335/1580704551/611698550",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

@@ -1,0 +1,1 @@
+Chave 4096 tem antecessor 4067 e sucessor 4111

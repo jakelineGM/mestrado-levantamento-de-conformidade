@@ -1,0 +1,4 @@
+SOMAR ok
+AVEIA nao existe
+REAIS ok
+DOLAR nao existe

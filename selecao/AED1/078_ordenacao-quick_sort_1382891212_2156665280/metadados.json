@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-078",
+  "disciplina": "AED1",
+  "ordem": 78,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "K Menores com quick",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lista Encadeada e Ordenação",
+  "exercicio_id": "1382891212",
+  "aluno_id": "2156665280",
+  "hash_enunciado": "454c7bb46c",
+  "caminho_exercicio": "3695124409/2351927306/2807995981/1382891212",
+  "caminho_codigo": "3695124409/2351927306/2807995981/1382891212/2156665280",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 2
+}

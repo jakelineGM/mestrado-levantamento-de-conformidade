@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-069",
+  "disciplina": "AED1",
+  "ordem": 69,
+  "categoria": "recursao",
+  "subtema": "recursao_simples",
+  "categoria_secundaria": "",
+  "titulo": "ANDANDO NA MATRIZ RECURSIVAMENTE",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "L10 (recursão)",
+  "exercicio_id": "3813629148",
+  "aluno_id": "2545580484",
+  "hash_enunciado": "442c0398ab",
+  "caminho_exercicio": "3695124409/2928723469/155205433/3813629148",
+  "caminho_codigo": "3695124409/2928723469/155205433/3813629148/2545580484",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

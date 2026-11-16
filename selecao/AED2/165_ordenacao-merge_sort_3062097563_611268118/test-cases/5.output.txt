@@ -1,0 +1,20 @@
+Caso 1
+True
+True
+True
+False
+False
+
+Caso 2
+str
+0
+True
+(1, 2, 3)
+False
+
+Caso 3
+1.0
+2
+3.14
+4
+5

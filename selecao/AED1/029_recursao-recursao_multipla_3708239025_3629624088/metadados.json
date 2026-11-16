@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-029",
+  "disciplina": "AED1",
+  "ordem": 29,
+  "categoria": "recursao",
+  "subtema": "recursao_multipla",
+  "categoria_secundaria": "",
+  "titulo": "Triangulo de Pascal Recursivo",
+  "linguagem": "C",
+  "turma": "2025.01",
+  "avaliacao": "Lab 9 (recursão)",
+  "exercicio_id": "3708239025",
+  "aluno_id": "3629624088",
+  "hash_enunciado": "db77adcd79",
+  "caminho_exercicio": "3695124409/428269319/422938341/3708239025",
+  "caminho_codigo": "3695124409/428269319/422938341/3708239025/3629624088",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

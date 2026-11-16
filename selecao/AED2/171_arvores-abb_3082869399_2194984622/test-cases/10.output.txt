@@ -1,0 +1,3 @@
+Pre-ordem: 42 12 2 6 30 20 
+In-ordem: 2 6 12 20 30 42 
+Pos-ordem: 6 2 20 30 12 42

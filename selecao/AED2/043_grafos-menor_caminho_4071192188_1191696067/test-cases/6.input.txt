@@ -1,0 +1,12 @@
+Alderaan Bajor Coruscant Jakku Kronos Naboo Mandalore Tatooine Terra Vulcan .
+Alderaan Coruscant -0.5
+Alderaan Naboo 0.25
+Bajor Kronos 0.75
+Bajor Vulcan -0.5
+Kronos Terra 0.25
+Terra Bajor -0.25
+Terra Vulcan 0.5
+Vulcan Kronos 0.25
+Mandalore Coruscant 0.25
+Mandalore Naboo -0.5
+. . 0

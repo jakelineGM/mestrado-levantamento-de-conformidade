@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-200",
+  "disciplina": "AED2",
+  "ordem": 200,
+  "categoria": "arvores",
+  "subtema": "avl",
+  "categoria_secundaria": "",
+  "titulo": "Árvore AVL 1: rotação RR",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L08 - Árvores AVL",
+  "exercicio_id": "4051742666",
+  "aluno_id": "2689067525",
+  "hash_enunciado": "c49a8e3a4a",
+  "caminho_exercicio": "2421630345/749206632/2809783974/4051742666",
+  "caminho_codigo": "2421630345/749206632/2809783974/4051742666/2689067525",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

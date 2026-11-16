@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-175",
+  "disciplina": "AED2",
+  "ordem": 175,
+  "categoria": "ordenacao",
+  "subtema": "counting_sort",
+  "categoria_secundaria": "",
+  "titulo": "Espaço de trabalho do Counting Sort",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L09 - Ordenação linear",
+  "exercicio_id": "283156877",
+  "aluno_id": "1637362032",
+  "hash_enunciado": "4acfd1d091",
+  "caminho_exercicio": "2421630345/4142729763/859591362/283156877",
+  "caminho_codigo": "2421630345/4142729763/859591362/283156877/1637362032",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

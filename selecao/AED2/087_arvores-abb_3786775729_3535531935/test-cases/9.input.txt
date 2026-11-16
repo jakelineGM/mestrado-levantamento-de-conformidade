@@ -1,0 +1,2 @@
+{'valor': 5, 'esq': {'valor': 3, 'esq': {'valor': 2, 'esq': None, 'dir': None}, 'dir': None}, 'dir': {'valor': 8, 'esq': None, 'dir': None}}
+[1, 2, 3, 4, 5, 6, 7, 8, 9]

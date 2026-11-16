@@ -1,0 +1,19 @@
+{
+  "uid": "AED1-087",
+  "disciplina": "AED1",
+  "ordem": 87,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Merge de listas",
+  "linguagem": "C",
+  "turma": "2024.02",
+  "avaliacao": "Lab 10 (listas)",
+  "exercicio_id": "712612179",
+  "aluno_id": "3812542502",
+  "hash_enunciado": "b1b77ed9e8",
+  "caminho_exercicio": "3695124409/3056078694/3706417653/712612179",
+  "caminho_codigo": "3695124409/3056078694/3706417653/712612179/3812542502",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 3
+}

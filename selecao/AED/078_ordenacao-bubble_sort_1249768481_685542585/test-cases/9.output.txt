@@ -1,0 +1,11 @@
+Labiana <-> Colabeno
+Labiana <-> Codibentinho
+Labiana <-> Bozo
+Labiana <-> Aedenilson
+Colabeno <-> Codibentinho
+Colabeno <-> Bozo
+Colabeno <-> Aedenilson
+Codibentinho <-> Bozo
+Codibentinho <-> Aedenilson
+Bozo <-> Aedenilson
+['Aedenilson', 'Bozo', 'Codibentinho', 'Colabeno', 'Labiana']

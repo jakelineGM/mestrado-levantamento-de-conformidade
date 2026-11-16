@@ -1,0 +1,19 @@
+{
+  "uid": "AED-076",
+  "disciplina": "AED",
+  "ordem": 76,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "recursao",
+  "titulo": "Caminhamento em árvore",
+  "linguagem": "Python",
+  "turma": "2024.02",
+  "avaliacao": "L05 - Árvores binárias de busca",
+  "exercicio_id": "1875739069",
+  "aluno_id": "1572336055",
+  "hash_enunciado": "99e35ea4a3",
+  "caminho_exercicio": "165123477/3985864974/3497556209/1875739069",
+  "caminho_codigo": "165123477/3985864974/3497556209/1875739069/1572336055",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 5
+}

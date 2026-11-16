@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-111",
+  "disciplina": "AED2",
+  "ordem": 111,
+  "categoria": "arvores",
+  "subtema": "abb",
+  "categoria_secundaria": "recursao",
+  "titulo": "Busca na árvore binária de busca",
+  "linguagem": "Python",
+  "turma": "2025.01",
+  "avaliacao": "L04 - Árvores binárias de busca",
+  "exercicio_id": "3786775729",
+  "aluno_id": "2438065420",
+  "hash_enunciado": "7faeacc792",
+  "caminho_exercicio": "2421630345/749206632/460689845/3786775729",
+  "caminho_codigo": "2421630345/749206632/460689845/3786775729/2438065420",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 10
+}

@@ -1,0 +1,16 @@
+10: fim
+9: existe
+8: existe
+7: existe
+6: existe
+5: existe
+4: existe
+3: existe
+2: existe
+1: inicio
+10: fim
+20: nao existe
+30: nao existe
+-10: nao existe
+-20: nao existe
+-30: nao existe

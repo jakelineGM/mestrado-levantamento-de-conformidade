@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-066",
+  "disciplina": "AED2",
+  "ordem": 66,
+  "categoria": "ordenacao",
+  "subtema": "counting_sort",
+  "categoria_secundaria": "",
+  "titulo": "Ordenação de notas com Pigeonhole Sort",
+  "linguagem": "Python",
+  "turma": "2026.01",
+  "avaliacao": "L09 - Ordenação linear",
+  "exercicio_id": "2816859777",
+  "aluno_id": "3699977669",
+  "hash_enunciado": "04488cc9eb",
+  "caminho_exercicio": "2421630345/4142729763/859591362/2816859777",
+  "caminho_codigo": "2421630345/4142729763/859591362/2816859777/3699977669",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 6
+}

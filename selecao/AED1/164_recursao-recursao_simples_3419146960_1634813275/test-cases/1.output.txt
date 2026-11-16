@@ -1,0 +1,11 @@
+0 eh par
+1 eh impar
+2 eh par
+3 eh impar
+4 eh par
+5 eh impar
+6 eh par
+7 eh impar
+8 eh par
+9 eh impar
+10 eh par

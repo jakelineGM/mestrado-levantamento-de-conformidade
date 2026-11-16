@@ -1,0 +1,19 @@
+{
+  "uid": "AED-144",
+  "disciplina": "AED",
+  "ordem": 144,
+  "categoria": "ordenacao",
+  "subtema": "quick_sort",
+  "categoria_secundaria": "recursao",
+  "titulo": "implementação do quick sort",
+  "linguagem": "Python",
+  "turma": "2025.02",
+  "avaliacao": "L03 - Ordenação Quasilinear",
+  "exercicio_id": "3714207831",
+  "aluno_id": "2468033585",
+  "hash_enunciado": "3edddf6093",
+  "caminho_exercicio": "165123477/138519253/220769621/3714207831",
+  "caminho_codigo": "165123477/138519253/220769621/3714207831/2468033585",
+  "arquivos_codigo": "main.py",
+  "n_casos_teste": 4
+}

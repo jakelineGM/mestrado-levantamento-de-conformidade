@@ -1,0 +1,19 @@
+{
+  "uid": "AED2-004",
+  "disciplina": "AED2",
+  "ordem": 4,
+  "categoria": "estruturas_lineares",
+  "subtema": "lista_duplamente_encadeada",
+  "categoria_secundaria": "",
+  "titulo": "Os primeiros serão os últimos",
+  "linguagem": "C",
+  "turma": "2026.01",
+  "avaliacao": "01-Listas encadeadas (nível 2)",
+  "exercicio_id": "2193156525",
+  "aluno_id": "1090138006",
+  "hash_enunciado": "f1dd1e6b42",
+  "caminho_exercicio": "2421630345/4142729763/2578170144/2193156525",
+  "caminho_codigo": "2421630345/4142729763/2578170144/2193156525/1090138006",
+  "arquivos_codigo": "main.c",
+  "n_casos_teste": 10
+}

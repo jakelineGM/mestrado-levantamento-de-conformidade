@@ -1,0 +1,4 @@
+1: fim
+2: existe
+9: existe
+10: inicio
