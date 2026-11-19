@@ -1,0 +1,6 @@
+﻿uid;disciplina;subtema;titulo;exigencia;trecho_enunciado;tipo;linhas;evidencia;descricao
+AED-002;AED;lista_duplamente_encadeada;Descartando cartas (E/S simplificada);E1;Use uma estrutura de lista duplamente encadeada para representar o monte.;estrutura_diferente;131-137;monte = list(range(1, n+1));Usa lista nativa do Python no lugar da lista duplamente encadeada exigida pelo enunciado.
+AED-003;AED;selection_sort;Trocas do Selection Sort;E3;Elabore uma função chamada imprime_selection(v);requisito_ignorado;2;def selection_sort(entrada):;O enunciado exige explicitamente a função imprime_selection(v). O aluno definiu selection_sort, com outro nome.
+AED-009;AED;insertion_sort;Passos do Insertion Sort;E4;Escreva uma função que implementa o algoritmo;requisito_ignorado;7-24;for i in range(1, len(array)):;O enunciado pede uma função, mas o algoritmo está escrito diretamente no script, sem nenhum def.
+AED-010;AED;heap_estrutura;Implementação do heapify;E3;Para cada uma imprima a lista resultante da operação max_heapify;algoritmo_diferente;20-22;"for i in range(last, -1, -1):
+    max_heapify(vet, i)";Executa build_max_heap em vez da única operação max_heapify sobre a quase-heap. A saída coincide porque as subárvores já são heaps.
