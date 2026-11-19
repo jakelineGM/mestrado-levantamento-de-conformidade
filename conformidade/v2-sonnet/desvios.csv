@@ -1,0 +1,3 @@
+﻿uid;disciplina;subtema;titulo;exigencia;trecho_enunciado;tipo;linhas;evidencia;descricao
+AED-002;AED;lista_duplamente_encadeada;Descartando cartas (E/S simplificada);E1;Use uma estrutura de lista duplamente encadeada para representar o monte.;estrutura_diferente;131-137;monte = list(range(1, n+1));O monte é uma lista nativa do Python manipulada com pop(0) e append, no lugar da lista duplamente encadeada exigida.
+AED-003;AED;selection_sort;Trocas do Selection Sort;E1;Elabore uma função chamada imprime_selection(v);requisito_ignorado;2;def selection_sort(entrada):;"O enunciado exige a função imprime_selection(v), mas o aluno definiu selection_sort(entrada); a função exigida não existe."
